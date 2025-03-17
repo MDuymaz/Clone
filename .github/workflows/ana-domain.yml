@@ -79,10 +79,10 @@ jobs:
         fi
 
     # base-finder.yml workflow'unu tetiklemek
-    - name: Trigger base-finder.yml workflow
+    - name: Trigger base-url.yml workflow
       if: success()  # Bu adımdan önce başarılı olursa tetiklenir
       run: |
         curl -X POST \
           -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
           -d '{"ref": "main"}' \
-          https://api.github.com/repos/${{ github.repository }}/actions/workflows/base-finder.yml/dispatches
+          https://api.github.com/repos/${{ github.repository }}/actions/workflows/base-url.yml/dispatches
