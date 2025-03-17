@@ -1,0 +1,77 @@
+name: Run base_url.py script
+
+on:
+  workflow_run:
+    workflows: ["Ana Domain"]  # Ana Domain workflow'u tamamlandığında çalışacak
+    types:
+      - completed
+
+jobs:
+  run_base_url_script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python environment
+        uses: actions/setup-python@v3  # Daha güncel versiyon kullanıyoruz
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install selenium webdriver-manager
+
+      - name: Run base_url.py
+        run: |
+          python base_url.py
+
+      # Ana link dosyasını kontrol ediyoruz
+      - name: Check if base_url.txt is updated
+        id: check_update
+        run: |
+          echo "Checking if base_url.txt was updated:"
+          cat base_url.txt  # Dosyanın içeriğini kontrol ediyoruz
+          
+          OLD_URL=$(cat base_url.txt)
+          NEW_URL=$(python base_url.py)  # Yeni URL'yi almak için scripti çalıştırıyoruz
+          
+          if [ "$OLD_URL" == "$NEW_URL" ]; then
+            echo "URL güncellemeye gerek yoktur"
+            echo "no_update=true" >> $GITHUB_ENV  # URL değişmemişse environment variable set ediyoruz
+          else
+            echo "URL başarıyla base_url.txt dosyasına güncellendi"
+            echo "no_update=false" >> $GITHUB_ENV  # URL güncellenmişse farklı bir variable set ediyoruz
+          fi
+
+      # GitHub Actions'a yapılan değişiklikleri commit ediyoruz
+      - name: Commit updated base_url.txt
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+          # Değişiklik olup olmadığını kontrol et
+          git pull  # Güncel değişiklikleri almak için ekledik
+          if git diff --quiet; then
+            echo "No changes detected. Skipping commit."
+          else
+            git add base_url.txt
+            if [ "${{ env.no_update }}" == "true" ]; then
+              git commit -m "Domain URL güncellenmeye gerek yoktur"
+            else
+              git commit -m "Domain URL güncellendi."
+            fi
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # mac-verisi.yml workflow'unu tetiklemek
+      - name: Trigger mac-verisi.yml workflow
+        if: ${{ success() }}  # Bu adımdan önce başarılı olursa tetiklenir
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -d '{"ref": "main"}' \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/mac-verisi.yml/dispatches
