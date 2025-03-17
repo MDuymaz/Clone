@@ -1,9 +1,8 @@
 name: Run M3u Generator
 on:
-  workflow_run:
-    workflows: ["Run Mac Verisi"]  # "Run Mac Verisi" workflow'u tamamlandıktan sonra çalışacak
-    types:
-      - completed
+  schedule:
+    - cron: "0 */2 * * *"  # Her 2 saatte bir çalışacak şekilde ayarlandı
+  workflow_dispatch:  # Elle çalıştırmaya izin verir
 
 jobs:
   build:
@@ -35,7 +34,7 @@ jobs:
             git add output.m3u  # Güncellenen dosyayı ekleyin.
             git commit -m "M3U dosyası hazır. İyi seyirler 😊"
             git push origin HEAD:main
-          else
+          else:
             echo "Değişiklik yok, commit atılmayacak."
           fi
         env:
