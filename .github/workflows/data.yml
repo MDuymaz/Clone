@@ -69,11 +69,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # mac-verisi.yml workflow'unu tetiklemek
-      - name: Trigger mac-verisi.yml workflow
+      # mac_verileri.py workflow'unu tetiklemek
+      - name: Trigger mac_verileri.py workflow
         if: ${{ success() }}  # Bu adımdan önce başarılı olursa tetiklenir
         run: |
           curl -X POST \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
             -d '{"ref": "main"}' \
-            https://api.github.com/repos/${{ github.repository }}/actions/workflows/mac-verisi.yml/dispatches
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/mac_verileri.py/dispatches
