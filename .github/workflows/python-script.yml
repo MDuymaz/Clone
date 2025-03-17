@@ -33,7 +33,7 @@ jobs:
           # Değişiklikleri kontrol et
           if git status --porcelain | grep .; then
             echo "Değişiklikler tespit edildi, commit atılıyor..."
-            git add mac_verileri.m3u  # Güncellenen dosyayı ekleyin.
+            git add output.m3u  # Güncellenen dosyayı ekleyin.
             git commit -m "M3U dosyası hazır. İyi seyirler 😊"
             git push origin HEAD:main
           else
