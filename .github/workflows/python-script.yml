@@ -2,7 +2,7 @@ name: Run Python Script
 
 on:
   workflow_run:
-    workflows: ["Run Mac Verisi"]  # Mac Verisi workflow'u tamamlandıktan sonra çalışacak
+    workflows: ["Run Mac Verisi"]  # "Run Mac Verisi" workflow'u tamamlandıktan sonra çalışacak
     types:
       - completed
 
@@ -20,21 +20,24 @@ jobs:
           python-version: '3.x'
 
       - name: 📦 Gerekli Bağımlılıkları Kur
-        run: pip install -r requirements.txt || echo "No dependencies"
+        run: pip install -r requirements.txt || echo "No dependencies found."
 
       - name: 🚀 M3U Dosyasını Oluştur
         run: python txt_to_m3u.py
 
-      - name: Değişiklikleri kontrol et ve commit et
-      run: |
-        git config --local user.name "Github Action"
-        git config --local user.email "action@github.com"
-        if [ -n "$(git status --porcelain)" ]; then
-          git add mac_verileri.m3u  # Güncellenen dosyayı ekleyin.
-          git commit -m "M3U dosyası hazır. Iyi seyirler 😊"
-          git push
-        else
-          echo "No changes to commit"
-        fi
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub tokeni ile authenticate ol
+      - name: ✅ Değişiklikleri Kontrol Et ve Commit Yap
+        run: |
+          git config --local user.name "Github Action"
+          git config --local user.email "action@github.com"
+
+          # Değişiklikleri kontrol et
+          if git status --porcelain | grep .; then
+            echo "Değişiklikler tespit edildi, commit atılıyor..."
+            git add mac_verileri.m3u  # Güncellenen dosyayı ekleyin.
+            git commit -m "M3U dosyası hazır. İyi seyirler 😊"
+            git push origin HEAD:main
+          else
+            echo "Değişiklik yok, commit atılmayacak."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token ile yetkilendirme yap
