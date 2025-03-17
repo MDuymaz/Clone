@@ -58,14 +58,16 @@ with open("data.txt", "w", encoding="utf-8") as file:
             # Channel ID'yi isme dönüştür
             channel_list_name = channel_id_mapping.get(channel_list_id, channel_list_id)
 
+        file.write(f"Grup = {channel_list_name}\n")
+
         # Saat bilgisini, kanal adı ile birlikte yazdır
-        file.write(f"Saat: {time_info} - {channel_name}\n")
+        file.write(f"Kanal_Adı = {time_info} - {channel_name}\n")
         
         # Base URL'yi ve /playlist.m3u8'yi ekleyerek yeni data_url oluştur
         final_data_url = f"{base_url}{data_url}/playlist.m3u8"
         
         # Yeni data_url'yi bir sonraki satıra yazdır
-        file.write(f"{final_data_url}\n")
+        file.write(f"Url = {final_data_url}\n")
         
         # Arada boşluk bırak
         file.write("\n")
