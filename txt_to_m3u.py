@@ -11,8 +11,7 @@ m3u_header = "#EXTM3U\n"
 m3u_content = ""
 
 # Veri satırlarını 3'erli gruplar halinde işle
-for i in range(0, len(lines), 3):
-    # Satırın boş olup olmadığını kontrol et
+for i in range(0, len(lines), 4):  # Satırları 4'erli olarak al
     if i + 2 < len(lines):
         group_line = lines[i].strip()
         channel_name_line = lines[i+1].strip()
@@ -20,18 +19,20 @@ for i in range(0, len(lines), 3):
 
         # "=" karakterini kontrol et
         if "=" in group_line and "=" in channel_name_line and "=" in url_line:
-            group = group_line.split('=')[1].strip()  # Grup adını al
-            channel_name = channel_name_line.split('=')[1].strip()  # Kanal adı al
-            url = url_line.split('=')[1].strip()  # URL al
+            group = group_line.split('=', 1)[1].strip().strip('"')  # Grup adını al
+            channel_name = channel_name_line.split('=', 1)[1].strip().strip('"')  # Kanal adı al
+            url = url_line.split('=', 1)[1].strip().strip('"')  # URL al
 
-            # M3U formatına uygun içerik oluştur
-            m3u_content += (
-                f'#EXTINF:-1 tvg-name="{channel_name}" tvg-language="Turkish" tvg-country="TR" '
-                f'group-title="{group}",{channel_name}\n'
-                f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)\n'
-                f'#EXTVLCOPT:http-referrer={base_url}\n'  # Burada base_url'i kullanıyoruz
-                f'{url}\n\n'
-            )
+            # Eğer değerler boş değilse devam et
+            if group and channel_name and url:
+                # M3U formatına uygun içerik oluştur
+                m3u_content += (
+                    f'#EXTINF:-1 tvg-name="{channel_name}" tvg-language="Turkish" tvg-country="TR" '
+                    f'group-title="{group}",{channel_name}\n'
+                    f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)\n'
+                    f'#EXTVLCOPT:http-referrer={base_url}\n'
+                    f'{url}\n\n'
+                )
 
 # M3U dosyasını oluştur
 m3u_file_content = m3u_header + m3u_content
