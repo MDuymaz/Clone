@@ -1,4 +1,4 @@
-name: Run base_url.py script
+name: Data Toplayıcı
 
 on:
   workflow_run:
