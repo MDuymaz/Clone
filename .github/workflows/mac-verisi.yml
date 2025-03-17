@@ -2,7 +2,7 @@ name: Run Mac Verisi
 
 on:
   workflow_run:
-    workflows: ["Data Toplayıcı"]  # Ana Domain workflow'u tamamlandığında çalışacak
+    workflows: ["Data Toplayıcı"]  # Ana workflow tamamlandığında çalışacak
     types:
       - completed
 
@@ -12,40 +12,38 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3  # Güncel sürümü kullanın
+      uses: actions/checkout@v3
 
     - name: Set up Python
-      uses: actions/setup-python@v3  # Güncel sürümü kullanın
+      uses: actions/setup-python@v3
       with:
         python-version: '3.x'
 
     - name: Install dependencies
-      run: |
-        pip install beautifulsoup4
+      run: pip install beautifulsoup4
 
     - name: Run script
-      run: |
-        python mac_verileri.py
+      run: python mac_verileri.py
         
     - name: Değişiklikleri kontrol et ve commit et
       run: |
         git config --local user.name "Github Action"
         git config --local user.email "action@github.com"
         if [ -n "$(git status --porcelain)" ]; then
-          git add data.txt  # Güncellenen dosyayı ekleyin.
+          git add data.txt
           git commit -m "Mac Verileri Güncellendi."
           git push
         else
           echo "No changes to commit"
         fi
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub tokeni ile authenticate ol
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    # python-script.yml workflow'unu tetiklemek
-    - name: Trigger python-script.yml workflow
-      if: success()  # Bu adımdan önce başarılı olursa tetiklenir
+    # "Run M3u Generator" workflow'unu tetiklemek
+    - name: Trigger "Run M3u Generator" workflow
+      if: success()
       run: |
         curl -X POST \
-          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
           -d '{"ref": "main"}' \
           https://api.github.com/repos/${{ github.repository }}/actions/workflows/python-script.yml/dispatches
