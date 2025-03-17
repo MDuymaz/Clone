@@ -70,7 +70,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # mac-verisi.yml workflow'unu tetiklemek
-      - name: Trigger mac-verisi.yml workflow
+      - name: Trigger data.yml workflow
         if: ${{ success() }}  # Bu adımdan önce başarılı olursa tetiklenir
         run: |
           curl -X POST \
