@@ -20,7 +20,8 @@ jobs:
         python-version: '3.x'
 
     - name: Install dependencies
-      run: pip install beautifulsoup4
+      run: |
+        pip install beautifulsoup4  # Gerekli diğer kütüphaneleri de yükleyin
 
     - name: Run script
       run: python mac_verileri.py
@@ -39,9 +40,9 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    # "Run M3u Generator" workflow'unu tetiklemek
-    - name: Trigger "Run M3u Generator" workflow
-      if: success()
+    # m3u-generator.yml workflow'unu tetiklemek
+    - name: Trigger m3u-generator.yml workflow
+      if: ${{ success() }}  # Bu adımdan önce başarılı olursa tetiklenir
       run: |
         curl -X POST \
           -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
