@@ -1,8 +1,10 @@
 name: Run M3u Generator
 on:
-  schedule:
-    - cron: "0 */2 * * *"  # Her 2 saatte bir çalışacak şekilde ayarlandı
-  workflow_dispatch:  # Elle çalıştırmaya izin verir
+  workflow_run:
+    workflows: ["Run Mac Verisi"]  # "Run Mac Verisi" tamamlanınca çalıştır
+    types:
+      - completed
+  workflow_dispatch:  # Manuel çalıştırmaya izin ver
 
 jobs:
   build:
