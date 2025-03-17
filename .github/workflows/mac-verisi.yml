@@ -46,4 +46,4 @@ jobs:
         curl -X POST \
           -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
           -d '{"ref": "main"}' \
-          https://api.github.com/repos/${{ github.repository }}/actions/workflows/python-script.yml/dispatches
+          https://api.github.com/repos/${{ github.repository }}/actions/workflows/m3u-generator.yml/dispatches
