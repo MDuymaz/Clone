@@ -29,55 +29,60 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install requests
+        pip install beautifulsoup4
 
-    # Python dosyasını çalıştırma
+    # Python dosyasını çalıştırma ve ana_link.txt içeriğini güncelleme
     - name: Run ana_domain_alma.py
       run: |
-        python ana_domain_alma.py
+        python ana_domain_alma.py  # Python betiğini çalıştırıyoruz
 
-   # Ana link dosyasını kontrol ediyoruz
-      - name: Check if ana_link.txt is updated
-        id: check_update
-        run: |
-          echo "Checking if ana_link.txt was updated:"
-          cat ana_link.txt  # Dosyanın içeriğini kontrol ediyoruz
-          
-          # Dosya güncellenmemişse hata veriyoruz
-          OLD_URL=$(cat ana_link.txt)
-          NEW_URL=$(python ana_domain_alma.py)  # Yeni URL'yi almak için scripti çalıştırıyoruz
-          
-          if [ "$OLD_URL" == "$NEW_URL" ]; then
-            echo "URL güncellemeye gerek yoktur"  # URL değişmemişse mesaj yazdırıyoruz
-            echo "no_update=true" >> $GITHUB_ENV  # URL değişmemişse bir environment variable set ediyoruz
+    # Ana link dosyasını kontrol ediyoruz
+    - name: Check if ana_link.txt is updated
+      id: check_update
+      run: |
+        echo "Checking if ana_link.txt was updated:"
+        cat ana_link.txt  # Dosyanın içeriğini kontrol ediyoruz
+        
+        # Eski ve yeni URL'yi alalım
+        OLD_URL=$(cat ana_link.txt)
+        NEW_URL=$(python ana_domain_alma.py)  # Yeni URL'yi almak için scripti çalıştırıyoruz
+        
+        echo "Eski URL: $OLD_URL"
+        echo "Yeni URL: $NEW_URL"
+        
+        # Eğer eski URL ile yeni URL eşleşiyorsa, güncelleme yapılmadığını belirtiyoruz
+        if [ "$OLD_URL" == "$NEW_URL" ]; then
+          echo "URL güncellenmeye gerek yoktur"  # URL değişmemişse mesaj yazdırıyoruz
+          echo "no_update=true" >> $GITHUB_ENV  # URL değişmemişse bir environment variable set ediyoruz
+        else
+          echo "URL başarıyla ana_link.txt dosyasına güncellendi"
+          echo "no_update=false" >> $GITHUB_ENV  # URL güncellenmişse farklı bir variable set ediyoruz
+        fi
+
+    # GitHub Actions'a yapılan değişiklikleri commit ediyoruz
+    - name: Commit updated ana_link.txt
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        
+        # Değişiklik olup olmadığını kontrol et
+        if git diff --quiet; then
+          echo "No changes detected. Skipping commit."
+        else
+          git add ana_link.txt
+          if [ "${{ env.no_update }}" == "true" ]; then
+            git commit -m "Domain URL güncellenmeye gerek yoktur"  # URL değişmemişse özel mesaj
           else
-            echo "URL başarıyla ana_link.txt dosyasına güncellendi"
-            echo "no_update=false" >> $GITHUB_ENV  # URL güncellenmişse farklı bir variable set ediyoruz
+            git commit -m "Domain URL güncellendi."  # URL güncellenmişse normal mesaj
           fi
+          git push
+        fi
 
-      # GitHub Actions'a yapılan değişiklikleri commit ediyoruz
-      - name: Commit updated ana_link.txt
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          
-          # Değişiklik olup olmadığını kontrol et
-          if git diff --quiet; then
-            echo "No changes detected. Skipping commit."
-          else
-            git add ana_link.txt
-            if [ "${{ env.no_update }}" == "true" ]; then
-              git commit -m "Domain URL güncellemeye gerek yoktur"  # URL değişmemişse özel mesaj
-            else
-              git commit -m "Domain URL güncellendi. "  # URL güncellenmişse normal mesaj
-            fi
-            git push
-          fi
-
-      # base-finder.yml workflow'unu tetiklemek
-      - name: Trigger base-finder.yml workflow
-        if: success()  # Bu adımdan önce başarılı olursa tetiklenir
-        run: |
-          curl -X POST \
-            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-            -d '{"ref": "main"}' \
-            https://api.github.com/repos/${{ github.repository }}/actions/workflows/base-finder.yml/dispatches
+    # base-finder.yml workflow'unu tetiklemek
+    - name: Trigger base-finder.yml workflow
+      if: success()  # Bu adımdan önce başarılı olursa tetiklenir
+      run: |
+        curl -X POST \
+          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -d '{"ref": "main"}' \
+          https://api.github.com/repos/${{ github.repository }}/actions/workflows/base-finder.yml/dispatches
