@@ -44,6 +44,6 @@ jobs:
       if: success()
       run: |
         curl -X POST \
-          -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
           -d '{"ref": "main"}' \
           https://api.github.com/repos/${{ github.repository }}/actions/workflows/m3u-generator.yml/dispatches
