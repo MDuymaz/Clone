@@ -1,5 +1,4 @@
-name: Run Python Script
-
+name: Run M3u Generator
 on:
   workflow_run:
     workflows: ["Run Mac Verisi"]  # "Run Mac Verisi" workflow'u tamamlandıktan sonra çalışacak
