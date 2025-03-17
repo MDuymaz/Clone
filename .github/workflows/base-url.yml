@@ -76,4 +76,4 @@ jobs:
           curl -X POST \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
             -d '{"ref": "main"}' \
-            https://api.github.com/repos/${{ github.repository }}/actions/workflows/mac-verisi.yml/dispatches
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/data.yml/dispatches
