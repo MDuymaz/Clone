@@ -18,6 +18,18 @@ Grup = "Basketbol"
 Kanal_Adı = "22:30 - Paris - Olimpia Milano"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8"
 
+Grup = "Tenis"
+Kanal_Adı = "18:00 - Soto/Marchetti - Villa/Prieto"
+Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "Tenis"
+Kanal_Adı = "20:00 - Rico/Gutierrez - Quesada/Jofre"
+Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "Tenis"
+Kanal_Adı = "22:00 - Garcia/Sanchez - Paredes/Postiguillo"
+Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
 Grup = "7/24 TV"
 Kanal_Adı = " - Bein Sports 1"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsports1/playlist.m3u8"
