@@ -24,6 +24,21 @@ https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktrtspor/playlist
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8
 
+#EXTINF:-1 tvg-name="18:00 - Soto/Marchetti - Villa/Prieto" tvg-language="Turkish" tvg-country="TR" group-title="Tenis",18:00 - Soto/Marchetti - Villa/Prieto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="20:00 - Rico/Gutierrez - Quesada/Jofre" tvg-language="Turkish" tvg-country="TR" group-title="Tenis",20:00 - Rico/Gutierrez - Quesada/Jofre
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="22:00 - Garcia/Sanchez - Paredes/Postiguillo" tvg-language="Turkish" tvg-country="TR" group-title="Tenis",22:00 - Garcia/Sanchez - Paredes/Postiguillo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
+
 #EXTINF:-1 tvg-name=" - Bein Sports 1" tvg-language="Turkish" tvg-country="TR" group-title="7/24 TV", - Bein Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
