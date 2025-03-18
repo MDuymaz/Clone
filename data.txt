@@ -7,12 +7,12 @@ Kanal_Adı = "17:30 - Tarsus Bld. - ÇBK Mersin"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "Basketbol"
-Kanal_Adı = "20:00 - Manisa BB - Unicaja Malaga"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktivibuspor2/playlist.m3u8"
-
-Grup = "Basketbol"
 Kanal_Adı = "20:00 - Galatasaray - Lietuvos Rytas"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "Basketbol"
+Kanal_Adı = "20:00 - Manisa BB - Unicaja Malaga"
+Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktivibuspor2/playlist.m3u8"
 
 Grup = "Basketbol"
 Kanal_Adı = "22:30 - Paris - Olimpia Milano"
