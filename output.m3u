@@ -9,15 +9,15 @@ https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktrtspor/playlist
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktrtspor/playlist.m3u8
 
-#EXTINF:-1 tvg-name="20:00 - Galatasaray - Lietuvos Rytas" tvg-language="Turkish" tvg-country="TR" group-title="Basketbol",20:00 - Galatasaray - Lietuvos Rytas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
-https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktrtspor/playlist.m3u8
-
 #EXTINF:-1 tvg-name="20:00 - Manisa BB - Unicaja Malaga" tvg-language="Turkish" tvg-country="TR" group-title="Basketbol",20:00 - Manisa BB - Unicaja Malaga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktivibuspor2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="20:00 - Galatasaray - Lietuvos Rytas" tvg-language="Turkish" tvg-country="TR" group-title="Basketbol",20:00 - Galatasaray - Lietuvos Rytas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktrtspor/playlist.m3u8
 
 #EXTINF:-1 tvg-name="22:30 - Paris - Olimpia Milano" tvg-language="Turkish" tvg-country="TR" group-title="Basketbol",22:30 - Paris - Olimpia Milano
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
