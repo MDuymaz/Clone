@@ -1,13 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="22:30 - Paris - Olimpia Milano" tvg-language="Turkish" tvg-country="TR" group-title="Basketbol",22:30 - Paris - Olimpia Milano
+#EXTINF:-1 tvg-name="14:00 - Portekiz - Türkiye" tvg-language="Turkish" tvg-country="TR" group-title="Futbol",14:00 - Portekiz - Türkiye
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="05:00 - GS Warriors - Milwaukee Bucks" tvg-language="Turkish" tvg-country="TR" group-title="Basketbol",05:00 - GS Warriors - Milwaukee Bucks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8
 
-#EXTINF:-1 tvg-name="22:00 - Garcia/Sanchez - Paredes/Postiguillo" tvg-language="Turkish" tvg-country="TR" group-title="Tenis",22:00 - Garcia/Sanchez - Paredes/Postiguillo
+#EXTINF:-1 tvg-name="18:00 - Beşiktaş - Galatasaray" tvg-language="Turkish" tvg-country="TR" group-title="Basketbol",18:00 - Beşiktaş - Galatasaray
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
-https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="20:30 - Petkimspor - Iberostar Tenerife" tvg-language="Turkish" tvg-country="TR" group-title="Basketbol",20:30 - Petkimspor - Iberostar Tenerife
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktivibuspor1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="14:00 - Portekiz - Türkiye" tvg-language="Turkish" tvg-country="TR" group-title="Çoklu Ekran",14:00 - Portekiz - Türkiye
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktrtspor/playlist.m3u8
 
 #EXTINF:-1 tvg-name=" - Bein Sports 1" tvg-language="Turkish" tvg-country="TR" group-title="7/24 TV", - Bein Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
