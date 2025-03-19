@@ -4,11 +4,6 @@
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktrtspor/playlist.m3u8
 
-#EXTINF:-1 tvg-name="05:00 - GS Warriors - Milwaukee Bucks" tvg-language="Turkish" tvg-country="TR" group-title="Basketbol",05:00 - GS Warriors - Milwaukee Bucks
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
-https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8
-
 #EXTINF:-1 tvg-name="18:00 - Beşiktaş - Galatasaray" tvg-language="Turkish" tvg-country="TR" group-title="Basketbol",18:00 - Beşiktaş - Galatasaray
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
