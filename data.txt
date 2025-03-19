@@ -11,12 +11,12 @@ Kanal_Adı = "17:00 - Riera/Marrero - Martinez/Collombon"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
 
 Grup = "Tenis"
-Kanal_Adı = "19:00 - S.Ishii - E.Raducanu"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
-
-Grup = "Tenis"
 Kanal_Adı = "19:00 - Nenno/Garrido - Moya/Rico"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
+
+Grup = "Tenis"
+Kanal_Adı = "19:00 - S.Ishii - E.Raducanu"
+Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
 Grup = "Tenis"
 Kanal_Adı = "21:00 - K.Boulter - P.Stearns"
