@@ -14,6 +14,41 @@ https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktrtspor/playlist
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktivibuspor1/playlist.m3u8
 
+#EXTINF:-1 tvg-name="17:00 - Riera/Marrero - Martinez/Collombon" tvg-language="Turkish" tvg-country="TR" group-title="Tenis",17:00 - Riera/Marrero - Martinez/Collombon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="19:00 - Nenno/Garrido - Moya/Rico" tvg-language="Turkish" tvg-country="TR" group-title="Tenis",19:00 - Nenno/Garrido - Moya/Rico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="19:00 - S.Ishii - E.Raducanu" tvg-language="Turkish" tvg-country="TR" group-title="Tenis",19:00 - S.Ishii - E.Raducanu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="21:00 - K.Boulter - P.Stearns" tvg-language="Turkish" tvg-country="TR" group-title="Tenis",21:00 - K.Boulter - P.Stearns
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="21:00 - Bengoechea/Virseda - Dubins/Alonso" tvg-language="Turkish" tvg-country="TR" group-title="Tenis",21:00 - Bengoechea/Virseda - Dubins/Alonso
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="23:00 - Aguirre/Alfonso - Navarro/Bergamini" tvg-language="Turkish" tvg-country="TR" group-title="Tenis",23:00 - Aguirre/Alfonso - Navarro/Bergamini
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="23:00 - D.Yastremska - B.Bencic" tvg-language="Turkish" tvg-country="TR" group-title="Tenis",23:00 - D.Yastremska - B.Bencic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
+
 #EXTINF:-1 tvg-name="14:00 - Portekiz - Türkiye" tvg-language="Turkish" tvg-country="TR" group-title="Çoklu Ekran",14:00 - Portekiz - Türkiye
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1726.xyz/
