@@ -4,8 +4,7 @@ on:
     workflows: ["Run Mac Verisi"]  # "Run Mac Verisi" tamamlanınca çalıştır
     types:
       - completed
-  workflow_dispatch:  # Manuel çalıştırmaya izin ver
-
+ 
 jobs:
   build:
     runs-on: ubuntu-latest
