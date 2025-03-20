@@ -1,8 +1,4 @@
 Grup = "Futbol"
-Kanal_Adı = "12:10 - Avustralya - Endonezya"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuksmartspor/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "18:00 - Türkiye - İtalya"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
@@ -53,10 +49,6 @@ Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsport
 Grup = "Tenis"
 Kanal_Adı = "23:00 - Fuente/Maldonado - Senesi/Pons"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "12:10 - Avustralya - Endonezya"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuksmartspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "18:00 - Türkiye - İtalya"
