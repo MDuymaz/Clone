@@ -27,7 +27,7 @@ for i in range(0, len(lines), 4):  # Satırları 4'erli olarak al
             if group and channel_name and url:
                 # M3U formatına uygun içerik oluştur
                 m3u_content += (
-                    f'#EXTINF:-1 tvg-name="{channel_name}" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png"'
+                    f'#EXTINF:-1 tvg-name="{channel_name}" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" '
                     f'group-title="{group}",{channel_name}\n'
                     f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)\n'
                     f'#EXTVLCOPT:http-referrer={base_url}\n'
