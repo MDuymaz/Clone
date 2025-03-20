@@ -4,15 +4,15 @@
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuksmartspor/playlist.m3u8
 
-#EXTINF:-1 tvg-name="21:00 - Monaco - Fenerbahçe Beko" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Basketbol",21:00 - Monaco - Fenerbahçe Beko
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
-https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8
-
 #EXTINF:-1 tvg-name="21:00 - Olympiakos - Kizilyildiz" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Basketbol",21:00 - Olympiakos - Kizilyildiz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="21:00 - Monaco - Fenerbahçe Beko" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Basketbol",21:00 - Monaco - Fenerbahçe Beko
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8
 
 #EXTINF:-1 tvg-name="20:30 - C.Gauff - S.Kenin" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",20:30 - C.Gauff - S.Kenin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
