@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="12:10 - Avustralya - Endonezya" tvg-language="Turkish" tvg-country="TR" group-title="Futbol",12:10 - Avustralya - Endonezya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
-https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuksmartspor/playlist.m3u8
-
 #EXTINF:-1 tvg-name="18:00 - Türkiye - İtalya" tvg-language="Turkish" tvg-country="TR" group-title="Futbol",18:00 - Türkiye - İtalya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
@@ -68,11 +63,6 @@ https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="12:10 - Avustralya - Endonezya" tvg-language="Turkish" tvg-country="TR" group-title="Çoklu Ekran",12:10 - Avustralya - Endonezya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
-https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuksmartspor/playlist.m3u8
 
 #EXTINF:-1 tvg-name="18:00 - Türkiye - İtalya" tvg-language="Turkish" tvg-country="TR" group-title="Çoklu Ekran",18:00 - Türkiye - İtalya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
