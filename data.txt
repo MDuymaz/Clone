@@ -19,12 +19,12 @@ Kanal_Adı = "21:15 - Irak - Kuveyt"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuksmartspor/playlist.m3u8"
 
 Grup = "Basketbol"
-Kanal_Adı = "21:00 - Olympiakos - Kizilyildiz"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport2/playlist.m3u8"
-
-Grup = "Basketbol"
 Kanal_Adı = "21:00 - Monaco - Fenerbahçe Beko"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "Basketbol"
+Kanal_Adı = "21:00 - Olympiakos - Kizilyildiz"
+Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport2/playlist.m3u8"
 
 Grup = "Tenis"
 Kanal_Adı = "17:00 - Martin/Fallada - Saez/Ortiz"
