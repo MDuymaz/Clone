@@ -6,8 +6,7 @@ on:
   pull_request:
     branches: [ main ]  # Ana branşa pull request yapıldığında çalışacak
   workflow_dispatch:  # Elle başlatılabilmesi için bu tetikleyiciyi ekliyoruz.
-  schedule:
-    - cron: '0 */1 * * *'  # Her 1 saat 45 dakikada bir çalıştırılacak (cron zamanlayıcı)
+  
 
 jobs:
   build:
