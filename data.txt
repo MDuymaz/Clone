@@ -23,32 +23,16 @@ Kanal_Adı = "22:45 - Partizan - Anadolu Efes"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8"
 
 Grup = "Tenis"
-Kanal_Adı = "17:00 - Martin/Fallada - Villa/Prieto"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
-
-Grup = "Tenis"
 Kanal_Adı = "19:00 - C.Garcia - I.Swiatek"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
-
-Grup = "Tenis"
-Kanal_Adı = "19:00 - Nenno/Garrido - Chingotto/Galan"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
-
-Grup = "Tenis"
-Kanal_Adı = "19:30 - E.Navarro - E.Raducanu"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
-
-Grup = "Tenis"
-Kanal_Adı = "21:00 - Gallego/Araujo - Zielinski/Pelegri"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
 
 Grup = "Tenis"
 Kanal_Adı = "21:00 - B.Pera - J.Pegula"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
 Grup = "Tenis"
-Kanal_Adı = "23:00 - Alcorisa/Jensen - Senesi/Pons"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
+Kanal_Adı = "22:30 - V.Kudermetova - M.Andreeva"
+Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "20:30 - Türkiye - Kosova"
