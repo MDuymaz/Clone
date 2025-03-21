@@ -1,10 +1,6 @@
 Grup = "Futbol"
-Kanal_Adı = "05:30 - Kanada - Meksika"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport2/playlist.m3u8"
-
-Grup = "Basketbol"
-Kanal_Adı = "05:30 - LA Lakers - Milwaukee Bucks"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8"
+Kanal_Adı = "20:30 - Türkiye - Kosova"
+Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukaspor/playlist.m3u8"
 
 Grup = "Basketbol"
 Kanal_Adı = "17:00 - Fenerbahçe Opet - ÇBK Mersin"
@@ -27,10 +23,6 @@ Kanal_Adı = "22:45 - Partizan - Anadolu Efes"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8"
 
 Grup = "Tenis"
-Kanal_Adı = "03:30 - S.Cirstea - D.Collins"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
-
-Grup = "Tenis"
 Kanal_Adı = "19:00 - C.Garcia - I.Swiatek"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
@@ -43,8 +35,8 @@ Kanal_Adı = "21:00 - B.Pera - J.Pegula"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "05:30 - Kanada - Meksika"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport2/playlist.m3u8"
+Kanal_Adı = "20:30 - Türkiye - Kosova"
+Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukaspor/playlist.m3u8"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Bein Sports 1"
