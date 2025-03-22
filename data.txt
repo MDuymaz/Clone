@@ -27,6 +27,10 @@ Kanal_Adı = "20:30 - Büyükçekmece - Beşiktaş Fibabanka"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsports5/playlist.m3u8"
 
 Grup = "Basketbol"
+Kanal_Adı = "21:40 - St.Johns - Arkansas"
+Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "Basketbol"
 Kanal_Adı = "22:45 - Baskonia - Manresa"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuksmartspor/playlist.m3u8"
 
