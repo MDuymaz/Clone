@@ -55,6 +55,10 @@ Kanal_Adı = "21:00 - Gallego/Araujo - Senesi/Pons"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
 
 Grup = "Tenis"
+Kanal_Adı = "21:00 - Coello/Tapia - Stupaczuk/Lebron"
+Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
+
+Grup = "Tenis"
 Kanal_Adı = "22:00 - C.Gauff - M.Sakkari"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
