@@ -1,14 +1,6 @@
 Grup = "Futbol"
-Kanal_Adı = "14:00 - İngiltere - Türkiye"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktrtspor/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "20:30 - Mirandes - Racing Santander"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8"
-
-Grup = "Basketbol"
-Kanal_Adı = "13:00 - Mersin Spor - Galatasaray"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsports5/playlist.m3u8"
 
 Grup = "Basketbol"
 Kanal_Adı = "15:30 - Manisa BB - Türk Telekom"
@@ -61,10 +53,6 @@ Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsport
 Grup = "Tenis"
 Kanal_Adı = "22:00 - C.Gauff - M.Sakkari"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "14:00 - İngiltere - Türkiye"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "20:30 - Mirandes - Racing Santander"
