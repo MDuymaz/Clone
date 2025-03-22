@@ -7,10 +7,6 @@ Kanal_Adı = "20:30 - Mirandes - Racing Santander"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8"
 
 Grup = "Basketbol"
-Kanal_Adı = "04:25 - Uconn - Oklahoma"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport2/playlist.m3u8"
-
-Grup = "Basketbol"
 Kanal_Adı = "13:00 - Mersin Spor - Galatasaray"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsports5/playlist.m3u8"
 
@@ -25,6 +21,10 @@ Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsport
 Grup = "Basketbol"
 Kanal_Adı = "20:00 - Valencia Basket - Leyma Coruna"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
+Grup = "Basketbol"
+Kanal_Adı = "20:30 - Büyükçekmece - Beşiktaş Fibabanka"
+Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsports5/playlist.m3u8"
 
 Grup = "Basketbol"
 Kanal_Adı = "22:45 - Baskonia - Manresa"
