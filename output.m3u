@@ -34,22 +34,22 @@ https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsports5/play
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="20:30 - Anadolu Efes - Fenerbahçe Beko" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Basketbol",20:30 - Anadolu Efes - Fenerbahçe Beko
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
-https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsports5/playlist.m3u8
-
 #EXTINF:-1 tvg-name="20:30 - Unicaja Malaga - Real Madrid" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Basketbol",20:30 - Unicaja Malaga - Real Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuksmartspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="20:30 - Anadolu Efes - Fenerbahçe Beko" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Basketbol",20:30 - Anadolu Efes - Fenerbahçe Beko
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsports5/playlist.m3u8
 
 #EXTINF:-1 tvg-name="22:30 - Utah Jazz - Cleveland Cavaliers" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Basketbol",22:30 - Utah Jazz - Cleveland Cavaliers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8
 
-#EXTINF:-1 tvg-name="18:00 - Martin/Fallada - Senesi/Pons" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",18:00 - Martin/Fallada - Senesi/Pons
+#EXTINF:-1 tvg-name="19:00 - Martin/Fallada - Senesi/Pons" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",19:00 - Martin/Fallada - Senesi/Pons
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
@@ -64,12 +64,12 @@ https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/p
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="22:00 - A.Kalinskaya - J.Pegula" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",22:00 - A.Kalinskaya - J.Pegula
+#EXTINF:-1 tvg-name="21:00 - Stupaczuk/Lebron - Chingotto/Galan" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",21:00 - Stupaczuk/Lebron - Chingotto/Galan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
-https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="23:30 - E.Raducanu - M.Kessler" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",23:30 - E.Raducanu - M.Kessler
+#EXTINF:-1 tvg-name="22:00 - A.Kalinskaya - J.Pegula" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",22:00 - A.Kalinskaya - J.Pegula
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
