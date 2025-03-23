@@ -7,10 +7,6 @@ Kanal_Adı = "20:00 - Macaristan - Türkiye"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktv8/playlist.m3u8"
 
 Grup = "Basketbol"
-Kanal_Adı = "03:00 - New York Knicks - Washington Wizards"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8"
-
-Grup = "Basketbol"
 Kanal_Adı = "15:00 - Iberostar Tenerife - Morabanc Andorra"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuksmartspor/playlist.m3u8"
 
@@ -31,12 +27,12 @@ Kanal_Adı = "19:10 - Florida - Uconn"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport2/playlist.m3u8"
 
 Grup = "Basketbol"
-Kanal_Adı = "20:30 - Anadolu Efes - Fenerbahçe Beko"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsports5/playlist.m3u8"
-
-Grup = "Basketbol"
 Kanal_Adı = "20:30 - Unicaja Malaga - Real Madrid"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
+Grup = "Basketbol"
+Kanal_Adı = "20:30 - Anadolu Efes - Fenerbahçe Beko"
+Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsports5/playlist.m3u8"
 
 Grup = "Basketbol"
 Kanal_Adı = "22:30 - Utah Jazz - Cleveland Cavaliers"
