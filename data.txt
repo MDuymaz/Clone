@@ -27,19 +27,19 @@ Kanal_Adı = "19:10 - Florida - Uconn"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport2/playlist.m3u8"
 
 Grup = "Basketbol"
-Kanal_Adı = "20:30 - Anadolu Efes - Fenerbahçe Beko"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsports5/playlist.m3u8"
-
-Grup = "Basketbol"
 Kanal_Adı = "20:30 - Unicaja Malaga - Real Madrid"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
+Grup = "Basketbol"
+Kanal_Adı = "20:30 - Anadolu Efes - Fenerbahçe Beko"
+Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsports5/playlist.m3u8"
 
 Grup = "Basketbol"
 Kanal_Adı = "22:30 - Utah Jazz - Cleveland Cavaliers"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8"
 
 Grup = "Tenis"
-Kanal_Adı = "18:00 - Martin/Fallada - Senesi/Pons"
+Kanal_Adı = "19:00 - Martin/Fallada - Senesi/Pons"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
 
 Grup = "Tenis"
@@ -51,11 +51,11 @@ Kanal_Adı = "20:30 - M.Keys - A.Eala"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
 Grup = "Tenis"
-Kanal_Adı = "22:00 - A.Kalinskaya - J.Pegula"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+Kanal_Adı = "21:00 - Stupaczuk/Lebron - Chingotto/Galan"
+Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
 
 Grup = "Tenis"
-Kanal_Adı = "23:30 - E.Raducanu - M.Kessler"
+Kanal_Adı = "22:00 - A.Kalinskaya - J.Pegula"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
