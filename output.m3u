@@ -1,58 +1,58 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="20:00 - Macaristan - Türkiye" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",20:00 - Macaristan - Türkiye
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
-https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktv8/playlist.m3u8
-
-#EXTINF:-1 tvg-name="19:10 - Florida - Uconn" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Basketbol",19:10 - Florida - Uconn
+#EXTINF:-1 tvg-name="01:00 - Kanada - ABD" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",01:00 - Kanada - ABD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="20:30 - Anadolu Efes - Fenerbahçe Beko" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Basketbol",20:30 - Anadolu Efes - Fenerbahçe Beko
+#EXTINF:-1 tvg-name="04:30 - Meksika - Panama" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",04:30 - Meksika - Panama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
-https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsports5/playlist.m3u8
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="20:30 - Unicaja Malaga - Real Madrid" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Basketbol",20:30 - Unicaja Malaga - Real Madrid
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
-https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuksmartspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="22:30 - Utah Jazz - Cleveland Cavaliers" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Basketbol",22:30 - Utah Jazz - Cleveland Cavaliers
+#EXTINF:-1 tvg-name="22:30 - Real Zaragoza - Cordoba" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",22:30 - Real Zaragoza - Cordoba
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8
 
-#EXTINF:-1 tvg-name="19:00 - Martin/Fallada - Senesi/Pons" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",19:00 - Martin/Fallada - Senesi/Pons
+#EXTINF:-1 tvg-name="02:00 - Houston Rockets - Denver Nuggets" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Basketbol",02:00 - Houston Rockets - Denver Nuggets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
-https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8
 
-#EXTINF:-1 tvg-name="19:00 - E.Mertens - I.Swiatek" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",19:00 - E.Mertens - I.Swiatek
+#EXTINF:-1 tvg-name="02:00 - A.Anisimova - M.Andreeva" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",02:00 - A.Anisimova - M.Andreeva
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="20:30 - M.Keys - A.Eala" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",20:30 - M.Keys - A.Eala
+#EXTINF:-1 tvg-name="18:00 - N.Osaka - J.Paolini" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",18:00 - N.Osaka - J.Paolini
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="21:00 - Stupaczuk/Lebron - Chingotto/Galan" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",21:00 - Stupaczuk/Lebron - Chingotto/Galan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
-https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="22:00 - A.Kalinskaya - J.Pegula" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",22:00 - A.Kalinskaya - J.Pegula
+#EXTINF:-1 tvg-name="20:30 - A.Sabalenka - D.Collins" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",20:30 - A.Sabalenka - D.Collins
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="20:00 - Macaristan - Türkiye" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",20:00 - Macaristan - Türkiye
+#EXTINF:-1 tvg-name="22:00 - C.Gauff - M.Linette" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",22:00 - C.Gauff - M.Linette
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
-https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktv8/playlist.m3u8
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="01:00 - Kanada - ABD" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",01:00 - Kanada - ABD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="04:30 - Meksika - Panama" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",04:30 - Meksika - Panama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="22:30 - Real Zaragoza - Cordoba" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",22:30 - Real Zaragoza - Cordoba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8
 
 #EXTINF:-1 tvg-name=" - Bein Sports 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="7/24 TV", - Bein Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
