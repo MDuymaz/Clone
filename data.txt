@@ -1,8 +1,4 @@
 Grup = "Futbol"
-Kanal_Adı = "04:30 - Meksika - Panama"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport2/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "22:30 - Real Zaragoza - Cordoba"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8"
 
@@ -17,10 +13,6 @@ Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsport
 Grup = "Tenis"
 Kanal_Adı = "22:00 - C.Gauff - M.Linette"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "04:30 - Meksika - Panama"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport2/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "22:30 - Real Zaragoza - Cordoba"
