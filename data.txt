@@ -1,8 +1,4 @@
 Grup = "Futbol"
-Kanal_Adı = "16:45 - Endonezya - Bahreyn"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuksmartspor/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "18:30 - Romanya - Türkiye"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
@@ -39,20 +35,12 @@ Kanal_Adı = "22:45 - Real Madrid - Olimpia Milano"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8"
 
 Grup = "Tenis"
-Kanal_Adı = "18:00 - Talavan/Sharifova - Bengoechea/Virseda"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
-
-Grup = "Tenis"
 Kanal_Adı = "20:00 - Lopez/Ulrich - Soto/Marchetti"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
 
 Grup = "Tenis"
 Kanal_Adı = "21:00 - M.Linette - J.Paolini"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "16:45 - Endonezya - Bahreyn"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuksmartspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "18:30 - Romanya - Türkiye"
