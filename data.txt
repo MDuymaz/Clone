@@ -1,14 +1,6 @@
 Grup = "Basketbol"
-Kanal_Adı = "02:30 - Indiana Pacers - LA Lakers"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8"
-
-Grup = "Basketbol"
 Kanal_Adı = "22:15 - Olympiakos - Monaco"
 Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.m3u8"
-
-Grup = "Tenis"
-Kanal_Adı = "02:00 - E.Raducanu - J.Pegula"
-Url = "https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
 Grup = "Tenis"
 Kanal_Adı = "19:00 - Borrero/Santamaria - Senesi/Pons"
