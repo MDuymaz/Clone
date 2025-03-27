@@ -9,15 +9,15 @@ https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukssport/playlist.
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="21:00 - Aguirre/Alfonso - Stupaczuk/Lebron" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",21:00 - Aguirre/Alfonso - Stupaczuk/Lebron
+#EXTINF:-1 tvg-name="20:30 - Aguirre/Alfonso - Stupaczuk/Lebron" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",20:30 - Aguirre/Alfonso - Stupaczuk/Lebron
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
 https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="23:00 - Martin/Fallada - Rodriguez/Orsi" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",23:00 - Martin/Fallada - Rodriguez/Orsi
+#EXTINF:-1 tvg-name="22:00 - A.Sabalenka - J.Paolini" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Tenis",22:00 - A.Sabalenka - J.Paolini
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1727.xyz/
-https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
+https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
 
 #EXTINF:-1 tvg-name=" - Bein Sports 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="7/24 TV", - Bein Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
