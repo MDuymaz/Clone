@@ -1,8 +1,4 @@
 Grup = "Futbol"
-Kanal_Adı = "17:00 - Esenler Erokspor - Ankaragücü"
-Url = "https://alpha.cf-worker-0cd8b01808cebf74.workers.dev/live/selcuktrtspor/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "19:30 - Verona - Parma"
 Url = "https://alpha.cf-worker-0cd8b01808cebf74.workers.dev/live/selcukssport2/playlist.m3u8"
 
@@ -15,25 +11,17 @@ Kanal_Adı = "20:00 - Eyüpspor - Rams Başakşehir"
 Url = "https://alpha.cf-worker-0cd8b01808cebf74.workers.dev/live/selcukbeinsports1/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "21:45 - Paris FC - Caen"
-Url = "https://alpha.cf-worker-0cd8b01808cebf74.workers.dev/live/selcukbeinsports4/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "21:45 - Lazio - Torino"
 Url = "https://alpha.cf-worker-0cd8b01808cebf74.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "21:45 - Paris FC - Caen"
+Url = "https://alpha.cf-worker-0cd8b01808cebf74.workers.dev/live/selcukbeinsports4/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "22:00 - Celta Vigo - Las Palmas"
 Url = "https://alpha.cf-worker-0cd8b01808cebf74.workers.dev/live/selcukssport/playlist.m3u8"
 
-Grup = "Basketbol"
-Kanal_Adı = "18:00 - Türk Telekom - Anadolu Efes"
-Url = "https://alpha.cf-worker-0cd8b01808cebf74.workers.dev/live/selcukbeinsports5/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "17:00 - Esenler Erokspor - Ankaragücü"
-Url = "https://alpha.cf-worker-0cd8b01808cebf74.workers.dev/live/selcuktrtspor/playlist.m3u8"
-
 Grup = "Çoklu Ekran"
 Kanal_Adı = "19:30 - Verona - Parma"
 Url = "https://alpha.cf-worker-0cd8b01808cebf74.workers.dev/live/selcukssport2/playlist.m3u8"
@@ -47,12 +35,12 @@ Kanal_Adı = "20:00 - Eyüpspor - Rams Başakşehir"
 Url = "https://alpha.cf-worker-0cd8b01808cebf74.workers.dev/live/selcukbeinsports1/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "21:45 - Paris FC - Caen"
-Url = "https://alpha.cf-worker-0cd8b01808cebf74.workers.dev/live/selcukbeinsports4/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
 Kanal_Adı = "21:45 - Lazio - Torino"
 Url = "https://alpha.cf-worker-0cd8b01808cebf74.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "21:45 - Paris FC - Caen"
+Url = "https://alpha.cf-worker-0cd8b01808cebf74.workers.dev/live/selcukbeinsports4/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "22:00 - Celta Vigo - Las Palmas"
