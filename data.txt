@@ -27,16 +27,8 @@ Kanal_Adı = "22:00 - Celta Vigo - Las Palmas"
 Url = "https://alpha.cf-worker-0cd8b01808cebf74.workers.dev/live/selcukssport/playlist.m3u8"
 
 Grup = "Basketbol"
-Kanal_Adı = "01:00 - New York Knicks - Portland TB"
-Url = "https://alpha.cf-worker-0cd8b01808cebf74.workers.dev/live/selcukssport/playlist.m3u8"
-
-Grup = "Basketbol"
 Kanal_Adı = "18:00 - Türk Telekom - Anadolu Efes"
 Url = "https://alpha.cf-worker-0cd8b01808cebf74.workers.dev/live/selcukbeinsports5/playlist.m3u8"
-
-Grup = "Tenis"
-Kanal_Adı = "02:00 - Stupaczuk/Lebron - Chingotto/Galan"
-Url = "https://alpha.cf-worker-0cd8b01808cebf74.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "17:00 - Esenler Erokspor - Ankaragücü"
