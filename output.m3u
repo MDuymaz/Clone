@@ -9,30 +9,25 @@ https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukaspor/playlist.m
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1737.xyz/
 https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukatv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="21:45 - Manchester City - Leicester City" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",21:45 - Manchester City - Leicester City
+#EXTINF:-1 tvg-name="21:45 - Newcastle - Brentford" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",21:45 - Newcastle - Brentford
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1737.xyz/
-https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports2/playlist.m3u8
+https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports5/playlist.m3u8
 
 #EXTINF:-1 tvg-name="21:45 - Southampton - Crystal Palace" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",21:45 - Southampton - Crystal Palace
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1737.xyz/
 https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="21:45 - Newcastle - Brentford" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",21:45 - Newcastle - Brentford
+#EXTINF:-1 tvg-name="21:45 - Bournemouth - Ipswich Town" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",21:45 - Bournemouth - Ipswich Town
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1737.xyz/
-https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports5/playlist.m3u8
+https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="21:45 - Brighton - Aston Villa" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",21:45 - Brighton - Aston Villa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1737.xyz/
 https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports4/playlist.m3u8
-
-#EXTINF:-1 tvg-name="21:45 - Bournemouth - Ipswich Town" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",21:45 - Bournemouth - Ipswich Town
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1737.xyz/
-https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="22:00 - Liverpool - Everton" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",22:00 - Liverpool - Everton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -69,30 +64,25 @@ https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukaspor/playlist.m
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1737.xyz/
 https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukatv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="21:45 - Manchester City - Leicester City" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",21:45 - Manchester City - Leicester City
+#EXTINF:-1 tvg-name="21:45 - Newcastle - Brentford" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",21:45 - Newcastle - Brentford
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1737.xyz/
-https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports2/playlist.m3u8
+https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports5/playlist.m3u8
 
 #EXTINF:-1 tvg-name="21:45 - Southampton - Crystal Palace" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",21:45 - Southampton - Crystal Palace
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1737.xyz/
 https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="21:45 - Newcastle - Brentford" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",21:45 - Newcastle - Brentford
+#EXTINF:-1 tvg-name="21:45 - Bournemouth - Ipswich Town" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",21:45 - Bournemouth - Ipswich Town
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1737.xyz/
-https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports5/playlist.m3u8
+https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="21:45 - Brighton - Aston Villa" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",21:45 - Brighton - Aston Villa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1737.xyz/
 https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports4/playlist.m3u8
-
-#EXTINF:-1 tvg-name="21:45 - Bournemouth - Ipswich Town" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",21:45 - Bournemouth - Ipswich Town
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1737.xyz/
-https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="22:00 - Liverpool - Everton" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",22:00 - Liverpool - Everton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
