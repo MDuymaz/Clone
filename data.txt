@@ -7,8 +7,8 @@ Kanal_Adı = "20:45 - Fenerbahçe - Galatasaray"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukatv/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "21:45 - Newcastle - Brentford"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports5/playlist.m3u8"
+Kanal_Adı = "21:45 - Brighton - Aston Villa"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports4/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "21:45 - Southampton - Crystal Palace"
@@ -19,8 +19,12 @@ Kanal_Adı = "21:45 - Bournemouth - Ipswich Town"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "21:45 - Brighton - Aston Villa"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports4/playlist.m3u8"
+Kanal_Adı = "21:45 - Newcastle - Brentford"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports5/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "21:45 - Manchester City - Leicester City"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports2/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "22:00 - Liverpool - Everton"
@@ -51,8 +55,8 @@ Kanal_Adı = "20:45 - Fenerbahçe - Galatasaray"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukatv/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "21:45 - Newcastle - Brentford"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports5/playlist.m3u8"
+Kanal_Adı = "21:45 - Brighton - Aston Villa"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports4/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "21:45 - Southampton - Crystal Palace"
@@ -63,8 +67,12 @@ Kanal_Adı = "21:45 - Bournemouth - Ipswich Town"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "21:45 - Brighton - Aston Villa"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports4/playlist.m3u8"
+Kanal_Adı = "21:45 - Newcastle - Brentford"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports5/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "21:45 - Manchester City - Leicester City"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports2/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "22:00 - Liverpool - Everton"
