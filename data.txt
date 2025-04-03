@@ -11,16 +11,28 @@ Kanal_Adı = "22:15 - Sporting Lisbon - Rio Ave"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "Basketbol"
-Kanal_Adı = "20:00 - Monaco - Panathinaikos"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukssport/playlist.m3u8"
-
-Grup = "Basketbol"
 Kanal_Adı = "20:00 - Zalgiris Kaunas - Partizan"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukssport2/playlist.m3u8"
 
 Grup = "Basketbol"
+Kanal_Adı = "20:00 - Monaco - Panathinaikos"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "Basketbol"
 Kanal_Adı = "22:00 - Real Madrid - Paris"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "Tenis"
+Kanal_Adı = "20:00 - E.Bektas - C.Osorio"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
+
+Grup = "Tenis"
+Kanal_Adı = "21:30 - T.Maria - H.Chang"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
+
+Grup = "Tenis"
+Kanal_Adı = "23:00 - C.Bucsa - L.Boskovic"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "20:30 - Beşiktaş - Göztepe"
