@@ -19,20 +19,16 @@ Kanal_Adı = "22:15 - Sporting Lisbon - Rio Ave"
 Url = "https://due.704b4d473e0ae4ea.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
 
 Grup = "Basketbol"
-Kanal_Adı = "20:00 - Zalgiris Kaunas - Partizan"
-Url = "https://due.704b4d473e0ae4ea.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukssport2/playlist.m3u8"
-
-Grup = "Basketbol"
 Kanal_Adı = "20:00 - Monaco - Panathinaikos"
 Url = "https://due.704b4d473e0ae4ea.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukssport/playlist.m3u8"
 
 Grup = "Basketbol"
+Kanal_Adı = "20:00 - Zalgiris Kaunas - Partizan"
+Url = "https://due.704b4d473e0ae4ea.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukssport2/playlist.m3u8"
+
+Grup = "Basketbol"
 Kanal_Adı = "22:00 - Real Madrid - Paris"
 Url = "https://due.704b4d473e0ae4ea.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukssport/playlist.m3u8"
-
-Grup = "Tenis"
-Kanal_Adı = "18:00 - A.Anisimova - Y.Putintseva"
-Url = "https://due.704b4d473e0ae4ea.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsportsmax1/playlist.m3u8"
 
 Grup = "Tenis"
 Kanal_Adı = "19:30 - A.Krueger - E.Navarro"
