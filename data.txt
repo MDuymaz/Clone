@@ -50,6 +50,18 @@ Grup = "Basketbol"
 Kanal_Adı = "21:30 - Virtus Bologna - Olimpia Milano"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukssport2/playlist.m3u8"
 
+Grup = "Tenis"
+Kanal_Adı = "18:00 - J.Pegula - D.Collins"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "Tenis"
+Kanal_Adı = "19:30 - Q.Zheng - E.Alexandrova"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "Tenis"
+Kanal_Adı = "21:00 - S.Kenin - A.Kalinskaya"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
 Grup = "Çoklu Ekran"
 Kanal_Adı = "17:00 - İstanbulspor - Y.Malatyaspor"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktrtspor/playlist.m3u8"
