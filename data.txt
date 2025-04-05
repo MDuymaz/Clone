@@ -11,12 +11,12 @@ Kanal_Adı = "14:00 - Nürnberg - Hamburg"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktivibuspor1/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "14:00 - Fortuna Düsseldorf - Preussen Münster"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktivibuspor2/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "14:00 - Darmstadt 98 - Greuther Fürth"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktivibuspor3/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "14:00 - Fortuna Düsseldorf - Preussen Münster"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktivibuspor2/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "14:30 - Everton - Arsenal"
@@ -31,24 +31,24 @@ Kanal_Adı = "15:00 - Girona - Alaves"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukssport/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "16:00 - Rams Başakşehir - Konyaspor"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports1/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "16:00 - Sakaryaspor - Adanaspor"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "16:00 - Rams Başakşehir - Konyaspor"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports1/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "16:00 - Monza - Como"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukssport2/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "16:30 - Freiburg - B.Dortmund"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktivibuspor2/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "16:30 - Bochum - Stuttgart"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktivibuspor4/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "16:30 - Freiburg - B.Dortmund"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktivibuspor2/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "16:30 - Heidenheim - Bayer Leverkusen"
@@ -59,12 +59,12 @@ Kanal_Adı = "16:30 - Leipzig - Hoffenheim"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktivibuspor3/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "17:00 - West Ham - Bournemouth"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "17:00 - Crystal Palace - Brighton"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports3/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "17:00 - West Ham - Bournemouth"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "17:15 - Real Madrid - Valencia"
@@ -79,24 +79,20 @@ Kanal_Adı = "18:00 - PSG - Angers"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports4/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "19:00 - Çorum FK - Esenler Erokspor"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+Kanal_Adı = "19:00 - Fatih Karagümrük - Erzurumspor"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "19:00 - Antalyaspor - Samsunspor"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports1/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "19:00 - Fatih Karagümrük - Erzurumspor"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktrtspor/playlist.m3u8"
+Kanal_Adı = "19:00 - Çorum FK - Esenler Erokspor"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "19:00 - Parma - Inter"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukssport2/playlist.m3u8"
-
-Grup = "Futbol"
-Kanal_Adı = "19:30 - Aston Villa - Nottingham Forest"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports3/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "19:30 - Werder Bremen - Eintracht Frankfurt"
@@ -107,6 +103,10 @@ Kanal_Adı = "19:30 - Mallorca - Celta Vigo"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukssport/playlist.m3u8"
 
 Grup = "Futbol"
+Kanal_Adı = "19:30 - Aston Villa - Nottingham Forest"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports3/playlist.m3u8"
+
+Grup = "Futbol"
 Kanal_Adı = "19:45 - Twente - Fortuna Sittard"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktv85/playlist.m3u8"
 
@@ -115,20 +115,20 @@ Kanal_Adı = "21:00 - Al Ahli - Al Ittihad"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "21:30 - Köln - Hertha Berlin"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "21:30 - Rosario Central - Velez Sarsfield"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuksmartspor/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "21:45 - Milan - Fiorentina"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukssport2/playlist.m3u8"
+Kanal_Adı = "21:30 - Köln - Hertha Berlin"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "21:45 - KAA Gent - St.Gilloise"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktv85/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "21:45 - Milan - Fiorentina"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukssport2/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "22:00 - Barcelona - Real Betis"
@@ -155,7 +155,11 @@ Kanal_Adı = "20:30 - Bursaspor - Beşiktaş Fibabanka"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports5/playlist.m3u8"
 
 Grup = "Tenis"
-Kanal_Adı = "19:00 - J.Pegula - E.Alexandrova"
+Kanal_Adı = "20:00 - J.Pegula - E.Alexandrova"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "Tenis"
+Kanal_Adı = "21:30 - A.Anisimova - S.Kenin"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
@@ -171,12 +175,12 @@ Kanal_Adı = "14:00 - Nürnberg - Hamburg"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktivibuspor1/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "14:00 - Fortuna Düsseldorf - Preussen Münster"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktivibuspor2/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
 Kanal_Adı = "14:00 - Darmstadt 98 - Greuther Fürth"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktivibuspor3/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "14:00 - Fortuna Düsseldorf - Preussen Münster"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktivibuspor2/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "14:30 - Everton - Arsenal"
@@ -191,24 +195,24 @@ Kanal_Adı = "15:00 - Girona - Alaves"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukssport/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "16:00 - Rams Başakşehir - Konyaspor"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports1/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
 Kanal_Adı = "16:00 - Sakaryaspor - Adanaspor"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "16:00 - Rams Başakşehir - Konyaspor"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports1/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "16:00 - Monza - Como"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukssport2/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "16:30 - Freiburg - B.Dortmund"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktivibuspor2/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
 Kanal_Adı = "16:30 - Bochum - Stuttgart"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktivibuspor4/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "16:30 - Freiburg - B.Dortmund"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktivibuspor2/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "16:30 - Heidenheim - Bayer Leverkusen"
@@ -219,12 +223,12 @@ Kanal_Adı = "16:30 - Leipzig - Hoffenheim"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktivibuspor3/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "17:00 - West Ham - Bournemouth"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
 Kanal_Adı = "17:00 - Crystal Palace - Brighton"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports3/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "17:00 - West Ham - Bournemouth"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "17:15 - Real Madrid - Valencia"
@@ -239,24 +243,20 @@ Kanal_Adı = "18:00 - PSG - Angers"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports4/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "19:00 - Çorum FK - Esenler Erokspor"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
+Kanal_Adı = "19:00 - Fatih Karagümrük - Erzurumspor"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "19:00 - Antalyaspor - Samsunspor"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports1/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "19:00 - Fatih Karagümrük - Erzurumspor"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktrtspor/playlist.m3u8"
+Kanal_Adı = "19:00 - Çorum FK - Esenler Erokspor"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "19:00 - Parma - Inter"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukssport2/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "19:30 - Aston Villa - Nottingham Forest"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports3/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "19:30 - Werder Bremen - Eintracht Frankfurt"
@@ -267,6 +267,10 @@ Kanal_Adı = "19:30 - Mallorca - Celta Vigo"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukssport/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
+Kanal_Adı = "19:30 - Aston Villa - Nottingham Forest"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsports3/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
 Kanal_Adı = "19:45 - Twente - Fortuna Sittard"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktv85/playlist.m3u8"
 
@@ -275,20 +279,20 @@ Kanal_Adı = "21:00 - Al Ahli - Al Ittihad"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "21:30 - Köln - Hertha Berlin"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
 Kanal_Adı = "21:30 - Rosario Central - Velez Sarsfield"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuksmartspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "21:45 - Milan - Fiorentina"
-Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukssport2/playlist.m3u8"
+Kanal_Adı = "21:30 - Köln - Hertha Berlin"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "21:45 - KAA Gent - St.Gilloise"
 Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcuktv85/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "21:45 - Milan - Fiorentina"
+Url = "https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/selcukssport2/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "22:00 - Barcelona - Real Betis"
