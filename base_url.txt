@@ -1,1 +1,1 @@
-https://alpha.cf-worker-fbd9ff38fead24c0.workers.dev/live/
+https://alpha.cf-worker-6ca854093f63fd.workers.dev/live/
