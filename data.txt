@@ -1,18 +1,18 @@
 Grup = "Futbol"
-Kanal_Adı = "20:00 - Göztepe - Gaziantep FK"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports2/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "20:00 - Kasımpaşa - Beşiktaş"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports1/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "21:45 - Bologna - Napoli"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukssport2/playlist.m3u8"
+Kanal_Adı = "20:00 - Göztepe - Gaziantep FK"
+Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports2/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "21:45 - Dunkerque HB - Guingamp"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports4/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "21:45 - Bologna - Napoli"
+Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukssport2/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "22:00 - Leicester City - Newcastle"
@@ -31,20 +31,20 @@ Kanal_Adı = "19:00 - Anadolu Efes - Tofaş"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports5/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "20:00 - Göztepe - Gaziantep FK"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports2/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
 Kanal_Adı = "20:00 - Kasımpaşa - Beşiktaş"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports1/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "21:45 - Bologna - Napoli"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukssport2/playlist.m3u8"
+Kanal_Adı = "20:00 - Göztepe - Gaziantep FK"
+Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports2/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "21:45 - Dunkerque HB - Guingamp"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports4/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "21:45 - Bologna - Napoli"
+Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukssport2/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "22:00 - Leicester City - Newcastle"
