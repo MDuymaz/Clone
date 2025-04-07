@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="20:00 - Göztepe - Gaziantep FK" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",20:00 - Göztepe - Gaziantep FK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1744.xyz/
-https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports2/playlist.m3u8
-
 #EXTINF:-1 tvg-name="20:00 - Kasımpaşa - Beşiktaş" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",20:00 - Kasımpaşa - Beşiktaş
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1744.xyz/
 https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="20:00 - Göztepe - Gaziantep FK" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",20:00 - Göztepe - Gaziantep FK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1744.xyz/
+https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="21:45 - Dunkerque HB - Guingamp" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",21:45 - Dunkerque HB - Guingamp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -34,15 +34,15 @@ https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports3/playli
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1744.xyz/
 https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports5/playlist.m3u8
 
-#EXTINF:-1 tvg-name="20:00 - Göztepe - Gaziantep FK" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",20:00 - Göztepe - Gaziantep FK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1744.xyz/
-https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports2/playlist.m3u8
-
 #EXTINF:-1 tvg-name="20:00 - Kasımpaşa - Beşiktaş" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",20:00 - Kasımpaşa - Beşiktaş
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1744.xyz/
 https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="20:00 - Göztepe - Gaziantep FK" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",20:00 - Göztepe - Gaziantep FK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1744.xyz/
+https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="21:45 - Dunkerque HB - Guingamp" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",21:45 - Dunkerque HB - Guingamp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
