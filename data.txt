@@ -1,21 +1,5 @@
 Grup = "Futbol"
-Kanal_Adı = "20:00 - Beşiktaş - Kasımpaşa HD1"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports1s/playlist.m3u8"
-
-Grup = "Futbol"
-Kanal_Adı = "20:00 - Beşiktaş - Kasımpaşa (Çoklu Kalite)"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports1m/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "20:00 - Manisa FK - Amedspor"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8"
-
-Grup = "Futbol"
-Kanal_Adı = "14:00 - Keçiörengücü - Şanlıurfaspor"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8"
-
-Grup = "Futbol"
-Kanal_Adı = "17:00 - Iğdırspor - İstanbulspor"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "Futbol"
@@ -26,24 +10,12 @@ Grup = "Futbol"
 Kanal_Adı = "22:00 - Bayern Münih - Inter"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
-Grup = "Çoklu Ekran"
-Kanal_Adı = "20:00 - Beşiktaş - Kasımpaşa HD1"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports1s/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "20:00 - Beşiktaş - Kasımpaşa (Çoklu Kalite)"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports1m/playlist.m3u8"
+Grup = "Futbol"
+Kanal_Adı = "22:00 - Arsenal - Real Madrid"
+Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktabiispor6/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "20:00 - Manisa FK - Amedspor"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "14:00 - Keçiörengücü - Şanlıurfaspor"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "17:00 - Iğdırspor - İstanbulspor"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
@@ -53,6 +25,10 @@ Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/pla
 Grup = "Çoklu Ekran"
 Kanal_Adı = "22:00 - Bayern Münih - Inter"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "22:00 - Arsenal - Real Madrid"
+Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktabiispor6/playlist.m3u8"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Bein Sports 1"
