@@ -1,22 +1,14 @@
 Grup = "Futbol"
-Kanal_Adı = "14:00 - Erzurumspor - Çorum FK"
+Kanal_Adı = "17:00 - Esenler Erokspor - Fatih Karagümrük"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "15:00 - Lion City - Sydney FC"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuksmartspor/playlist.m3u8"
-
-Grup = "Futbol"
-Kanal_Adı = "17:00 - Esenler Erokspor - Fatih Karagümrük"
+Kanal_Adı = "20:00 - Boluspor - Sakaryaspor"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "20:00 - Pendikspor - Ankaragücü"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports2/playlist.m3u8"
-
-Grup = "Futbol"
-Kanal_Adı = "20:00 - Boluspor - Sakaryaspor"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "22:00 - PSG - Aston Villa"
@@ -51,24 +43,16 @@ Kanal_Adı = "22:45 - Iberostar Tenerife - Tortona"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktivibuspor1/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "14:00 - Erzurumspor - Çorum FK"
+Kanal_Adı = "17:00 - Esenler Erokspor - Fatih Karagümrük"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "15:00 - Lion City - Sydney FC"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuksmartspor/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "17:00 - Esenler Erokspor - Fatih Karagümrük"
+Kanal_Adı = "20:00 - Boluspor - Sakaryaspor"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "20:00 - Pendikspor - Ankaragücü"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports2/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "20:00 - Boluspor - Sakaryaspor"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "22:00 - PSG - Aston Villa"
