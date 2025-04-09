@@ -35,12 +35,12 @@ Kanal_Adı = "19:00 - Bahçeşehir Klj - Petkimspor"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports5/playlist.m3u8"
 
 Grup = "Basketbol"
-Kanal_Adı = "19:30 - Nymburk - Galatasaray"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktivibuspor1/playlist.m3u8"
-
-Grup = "Basketbol"
 Kanal_Adı = "19:30 - AEK Athens - JSF Nanterre"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktivibuspor2/playlist.m3u8"
+
+Grup = "Basketbol"
+Kanal_Adı = "19:30 - Nymburk - Galatasaray"
+Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktivibuspor1/playlist.m3u8"
 
 Grup = "Basketbol"
 Kanal_Adı = "21:00 - Unicaja Malaga - Reggiana"
