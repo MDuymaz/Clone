@@ -19,10 +19,6 @@ Kanal_Adı = "20:00 - Pendikspor - Ankaragücü"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports2/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "20:00 - Boluspor - Sakaryaspor"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "22:00 - PSG - Aston Villa"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrt1/playlist.m3u8"
 
@@ -33,10 +29,6 @@ Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/pla
 Grup = "Futbol"
 Kanal_Adı = "22:00 - Arsenal - Real Madrid"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktabiispor6/playlist.m3u8"
-
-Grup = "Basketbol"
-Kanal_Adı = "03:00 - OKC Thunder - LA Lakers"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukssport/playlist.m3u8"
 
 Grup = "Basketbol"
 Kanal_Adı = "19:00 - Bahçeşehir Klj - Petkimspor"
@@ -77,10 +69,6 @@ Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/pla
 Grup = "Çoklu Ekran"
 Kanal_Adı = "20:00 - Pendikspor - Ankaragücü"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports2/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "20:00 - Boluspor - Sakaryaspor"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "22:00 - PSG - Aston Villa"
