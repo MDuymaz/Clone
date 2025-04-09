@@ -1,15 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="14:00 - Erzurumspor - Çorum FK" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",14:00 - Erzurumspor - Çorum FK
+#EXTINF:-1 tvg-name="17:00 - Esenler Erokspor - Fatih Karagümrük" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",17:00 - Esenler Erokspor - Fatih Karagümrük
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1747.xyz/
 https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8
 
-#EXTINF:-1 tvg-name="15:00 - Lion City - Sydney FC" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",15:00 - Lion City - Sydney FC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1747.xyz/
-https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuksmartspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="17:00 - Esenler Erokspor - Fatih Karagümrük" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",17:00 - Esenler Erokspor - Fatih Karagümrük
+#EXTINF:-1 tvg-name="20:00 - Boluspor - Sakaryaspor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",20:00 - Boluspor - Sakaryaspor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1747.xyz/
 https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8
@@ -18,11 +13,6 @@ https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1747.xyz/
 https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="20:00 - Boluspor - Sakaryaspor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",20:00 - Boluspor - Sakaryaspor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1747.xyz/
-https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8
 
 #EXTINF:-1 tvg-name="22:00 - PSG - Aston Villa" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",22:00 - PSG - Aston Villa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -64,17 +54,12 @@ https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktivibuspor3/playli
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1747.xyz/
 https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktivibuspor1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="14:00 - Erzurumspor - Çorum FK" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",14:00 - Erzurumspor - Çorum FK
+#EXTINF:-1 tvg-name="17:00 - Esenler Erokspor - Fatih Karagümrük" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",17:00 - Esenler Erokspor - Fatih Karagümrük
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1747.xyz/
 https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8
 
-#EXTINF:-1 tvg-name="15:00 - Lion City - Sydney FC" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",15:00 - Lion City - Sydney FC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1747.xyz/
-https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuksmartspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="17:00 - Esenler Erokspor - Fatih Karagümrük" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",17:00 - Esenler Erokspor - Fatih Karagümrük
+#EXTINF:-1 tvg-name="20:00 - Boluspor - Sakaryaspor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",20:00 - Boluspor - Sakaryaspor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1747.xyz/
 https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8
@@ -83,11 +68,6 @@ https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1747.xyz/
 https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukbeinsports2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="20:00 - Boluspor - Sakaryaspor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",20:00 - Boluspor - Sakaryaspor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1747.xyz/
-https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8
 
 #EXTINF:-1 tvg-name="22:00 - PSG - Aston Villa" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",22:00 - PSG - Aston Villa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
