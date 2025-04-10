@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="14:00 - Y.Malatyaspor - Bandırmaspor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",14:00 - Y.Malatyaspor - Bandırmaspor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1748.xyz/
-https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8
-
 #EXTINF:-1 tvg-name="17:00 - Gençlerbirliği - Ümraniyespor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",17:00 - Gençlerbirliği - Ümraniyespor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1748.xyz/
@@ -38,11 +33,6 @@ https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukssport/playlist.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1748.xyz/
 https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukssport2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="14:00 - Y.Malatyaspor - Bandırmaspor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",14:00 - Y.Malatyaspor - Bandırmaspor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1748.xyz/
-https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8
 
 #EXTINF:-1 tvg-name="17:00 - Gençlerbirliği - Ümraniyespor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",17:00 - Gençlerbirliği - Ümraniyespor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
