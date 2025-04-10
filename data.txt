@@ -1,8 +1,4 @@
 Grup = "Futbol"
-Kanal_Adı = "14:00 - Y.Malatyaspor - Bandırmaspor"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "17:00 - Gençlerbirliği - Ümraniyespor"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
@@ -29,10 +25,6 @@ Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukssport/play
 Grup = "Basketbol"
 Kanal_Adı = "21:30 - Partizan - Real Madrid"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukssport2/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "14:00 - Y.Malatyaspor - Bandırmaspor"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "17:00 - Gençlerbirliği - Ümraniyespor"
