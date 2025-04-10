@@ -27,10 +27,6 @@ Kanal_Adı = "22:00 - Barcelona - B. Dortmund"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcuktabiispor6/playlist.m3u8"
 
 Grup = "Basketbol"
-Kanal_Adı = "02:30 - Dallas Mavericks - LA Lakers"
-Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukssport/playlist.m3u8"
-
-Grup = "Basketbol"
 Kanal_Adı = "21:00 - Bayern Münih - Fenerbahçe Beko"
 Url = "https://alpha.cf-worker-7a4dce36be6643.workers.dev/live/selcukssport/playlist.m3u8"
 
