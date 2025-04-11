@@ -24,15 +24,15 @@ https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcukbeinsports1/playli
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1748.xyz/
 https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcukbeinsports3/playlist.m3u8
 
-#EXTINF:-1 tvg-name="21:45 - Udinese - Milan" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",21:45 - Udinese - Milan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1748.xyz/
-https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcuktivibuspor2/playlist.m3u8
-
 #EXTINF:-1 tvg-name="21:45 - Lens - Reims" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",21:45 - Lens - Reims
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1748.xyz/
 https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcukbeinsports5/playlist.m3u8
+
+#EXTINF:-1 tvg-name="21:45 - Udinese - Milan" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",21:45 - Udinese - Milan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1748.xyz/
+https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcuktivibuspor2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="22:00 - Valencia - Sevilla" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",22:00 - Valencia - Sevilla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -89,15 +89,15 @@ https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcukbeinsports1/playli
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1748.xyz/
 https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcukbeinsports3/playlist.m3u8
 
-#EXTINF:-1 tvg-name="21:45 - Udinese - Milan" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",21:45 - Udinese - Milan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1748.xyz/
-https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcuktivibuspor2/playlist.m3u8
-
 #EXTINF:-1 tvg-name="21:45 - Lens - Reims" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",21:45 - Lens - Reims
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1748.xyz/
 https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcukbeinsports5/playlist.m3u8
+
+#EXTINF:-1 tvg-name="21:45 - Udinese - Milan" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",21:45 - Udinese - Milan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1748.xyz/
+https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcuktivibuspor2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="22:00 - Valencia - Sevilla" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",22:00 - Valencia - Sevilla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
