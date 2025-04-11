@@ -1,18 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="03:30 - Atletico Minerio - Dep. Iquique" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",03:30 - Atletico Minerio - Dep. Iquique
+#EXTINF:-1 tvg-name="19:30 - Greuther Fürth - Köln" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",19:30 - Greuther Fürth - Köln
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1748.xyz/
-https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcukssport2/playlist.m3u8
+https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="19:30 - Hamburg - Braunschweig" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",19:30 - Hamburg - Braunschweig
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1748.xyz/
 https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcukbeinsports3/playlist.m3u8
-
-#EXTINF:-1 tvg-name="19:30 - Greuther Fürth - Köln" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",19:30 - Greuther Fürth - Köln
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1748.xyz/
-https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="20:00 - Samsunspor - Galatasaray" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",20:00 - Samsunspor - Galatasaray
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -59,20 +54,15 @@ https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcukssport/playlist.m3
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1748.xyz/
 https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcukssport2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="03:30 - Atletico Minerio - Dep. Iquique" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",03:30 - Atletico Minerio - Dep. Iquique
+#EXTINF:-1 tvg-name="19:30 - Greuther Fürth - Köln" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",19:30 - Greuther Fürth - Köln
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1748.xyz/
-https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcukssport2/playlist.m3u8
+https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="19:30 - Hamburg - Braunschweig" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",19:30 - Hamburg - Braunschweig
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1748.xyz/
 https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcukbeinsports3/playlist.m3u8
-
-#EXTINF:-1 tvg-name="19:30 - Greuther Fürth - Köln" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",19:30 - Greuther Fürth - Köln
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1748.xyz/
-https://alpha.cf-worker-ea77f46ef188df.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="20:00 - Samsunspor - Galatasaray" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",20:00 - Samsunspor - Galatasaray
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
