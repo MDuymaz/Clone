@@ -7,12 +7,12 @@ Kanal_Adı = "20:00 - Samsunspor - Galatasaray (Çoklu Kalite)"
 Url = "https://due.47a240926cdcbdbf.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports1m/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "19:30 - Greuther Fürth - Köln"
-Url = "https://due.47a240926cdcbdbf.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsportsmax1/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "19:30 - Hamburg - Braunschweig"
 Url = "https://due.47a240926cdcbdbf.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports3/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "19:30 - Greuther Fürth - Köln"
+Url = "https://due.47a240926cdcbdbf.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsportsmax1/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "20:00 - Samsunspor - Galatasaray"
@@ -63,12 +63,12 @@ Kanal_Adı = "20:00 - Samsunspor - Galatasaray (Çoklu Kalite)"
 Url = "https://due.47a240926cdcbdbf.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports1m/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "19:30 - Greuther Fürth - Köln"
-Url = "https://due.47a240926cdcbdbf.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsportsmax1/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
 Kanal_Adı = "19:30 - Hamburg - Braunschweig"
 Url = "https://due.47a240926cdcbdbf.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports3/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "19:30 - Greuther Fürth - Köln"
+Url = "https://due.47a240926cdcbdbf.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsportsmax1/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "20:00 - Samsunspor - Galatasaray"
