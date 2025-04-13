@@ -1,33 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="02:30 - Belgrano - Boca Juniors" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",02:30 - Belgrano - Boca Juniors
+#EXTINF:-1 tvg-name="13:30 - Atalanta - Bologna" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",13:30 - Atalanta - Bologna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
-https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuksmartspor/playlist.m3u8
+https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukssport2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="13:30 - Sakaryaspor - Pendikspor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",13:30 - Sakaryaspor - Pendikspor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
 https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktrtspor/playlist.m3u8
 
-#EXTINF:-1 tvg-name="13:30 - Atalanta - Bologna" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",13:30 - Atalanta - Bologna
+#EXTINF:-1 tvg-name="14:30 - Jahn Regensburg - Schalke 04" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",14:30 - Jahn Regensburg - Schalke 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
-https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukssport2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="14:30 - Preussen Münster - Karlsruhe" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",14:30 - Preussen Münster - Karlsruhe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
-https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktivibuspor3/playlist.m3u8
+https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktivibuspor4/playlist.m3u8
 
 #EXTINF:-1 tvg-name="14:30 - Paderborn - Fortuna Düsseldorf" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",14:30 - Paderborn - Fortuna Düsseldorf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
 https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktivibuspor2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="14:30 - Jahn Regensburg - Schalke 04" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",14:30 - Jahn Regensburg - Schalke 04
+#EXTINF:-1 tvg-name="14:30 - Preussen Münster - Karlsruhe" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",14:30 - Preussen Münster - Karlsruhe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
-https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktivibuspor4/playlist.m3u8
+https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktivibuspor3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="15:00 - Osasuna - Girona" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",15:00 - Osasuna - Girona
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -44,30 +39,30 @@ https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktv85/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
 https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktrtspor/playlist.m3u8
 
-#EXTINF:-1 tvg-name="16:00 - Liverpool - West Ham" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",16:00 - Liverpool - West Ham
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
-https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukbeinsports3/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 - Kayserispor - Kasımpaşa" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",16:00 - Kayserispor - Kasımpaşa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
-https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukbeinsports1/playlist.m3u8
-
 #EXTINF:-1 tvg-name="16:00 - Gaziantep FK - Hatayspor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",16:00 - Gaziantep FK - Hatayspor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
 https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukbeinsports2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 - Fiorentina - Parma" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",16:00 - Fiorentina - Parma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
+https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukssport2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 - Liverpool - West Ham" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",16:00 - Liverpool - West Ham
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
+https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukbeinsports3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="16:00 - Chelsea - Ipswich Town" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",16:00 - Chelsea - Ipswich Town
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
 https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="16:00 - Fiorentina - Parma" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",16:00 - Fiorentina - Parma
+#EXTINF:-1 tvg-name="16:00 - Kayserispor - Kasımpaşa" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",16:00 - Kayserispor - Kasımpaşa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
-https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukssport2/playlist.m3u8
+https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukbeinsports1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="16:30 - Stuttgart - Werder Bremen" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",16:30 - Stuttgart - Werder Bremen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -99,11 +94,6 @@ https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktivibuspor2/playli
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
 https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukbeinsports2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="19:00 - Como - Torino" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",19:00 - Como - Torino
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
-https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktivibuspor1/playlist.m3u8
-
 #EXTINF:-1 tvg-name="19:00 - Sivasspor - Fenerbahçe" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",19:00 - Sivasspor - Fenerbahçe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
@@ -113,6 +103,11 @@ https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukbeinsports1/playli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
 https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="19:00 - Como - Torino" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",19:00 - Como - Torino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
+https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktivibuspor1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="19:00 - Çorum FK - Manisa FK" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",19:00 - Çorum FK - Manisa FK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -189,35 +184,30 @@ https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukbeinsports5/playli
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
 https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukssport/playlist.m3u8
 
-#EXTINF:-1 tvg-name="02:30 - Belgrano - Boca Juniors" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",02:30 - Belgrano - Boca Juniors
+#EXTINF:-1 tvg-name="13:30 - Atalanta - Bologna" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",13:30 - Atalanta - Bologna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
-https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuksmartspor/playlist.m3u8
+https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukssport2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="13:30 - Sakaryaspor - Pendikspor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",13:30 - Sakaryaspor - Pendikspor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
 https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktrtspor/playlist.m3u8
 
-#EXTINF:-1 tvg-name="13:30 - Atalanta - Bologna" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",13:30 - Atalanta - Bologna
+#EXTINF:-1 tvg-name="14:30 - Jahn Regensburg - Schalke 04" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",14:30 - Jahn Regensburg - Schalke 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
-https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukssport2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="14:30 - Preussen Münster - Karlsruhe" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",14:30 - Preussen Münster - Karlsruhe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
-https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktivibuspor3/playlist.m3u8
+https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktivibuspor4/playlist.m3u8
 
 #EXTINF:-1 tvg-name="14:30 - Paderborn - Fortuna Düsseldorf" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",14:30 - Paderborn - Fortuna Düsseldorf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
 https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktivibuspor2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="14:30 - Jahn Regensburg - Schalke 04" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",14:30 - Jahn Regensburg - Schalke 04
+#EXTINF:-1 tvg-name="14:30 - Preussen Münster - Karlsruhe" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",14:30 - Preussen Münster - Karlsruhe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
-https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktivibuspor4/playlist.m3u8
+https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktivibuspor3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="15:00 - Osasuna - Girona" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",15:00 - Osasuna - Girona
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -234,30 +224,30 @@ https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktv85/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
 https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktrtspor/playlist.m3u8
 
-#EXTINF:-1 tvg-name="16:00 - Liverpool - West Ham" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",16:00 - Liverpool - West Ham
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
-https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukbeinsports3/playlist.m3u8
-
-#EXTINF:-1 tvg-name="16:00 - Kayserispor - Kasımpaşa" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",16:00 - Kayserispor - Kasımpaşa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
-https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukbeinsports1/playlist.m3u8
-
 #EXTINF:-1 tvg-name="16:00 - Gaziantep FK - Hatayspor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",16:00 - Gaziantep FK - Hatayspor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
 https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukbeinsports2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 - Fiorentina - Parma" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",16:00 - Fiorentina - Parma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
+https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukssport2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="16:00 - Liverpool - West Ham" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",16:00 - Liverpool - West Ham
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
+https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukbeinsports3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="16:00 - Chelsea - Ipswich Town" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",16:00 - Chelsea - Ipswich Town
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
 https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="16:00 - Fiorentina - Parma" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",16:00 - Fiorentina - Parma
+#EXTINF:-1 tvg-name="16:00 - Kayserispor - Kasımpaşa" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",16:00 - Kayserispor - Kasımpaşa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
-https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukssport2/playlist.m3u8
+https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukbeinsports1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="16:30 - Stuttgart - Werder Bremen" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",16:30 - Stuttgart - Werder Bremen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -289,11 +279,6 @@ https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktivibuspor2/playli
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
 https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukbeinsports2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="19:00 - Como - Torino" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",19:00 - Como - Torino
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
-https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktivibuspor1/playlist.m3u8
-
 #EXTINF:-1 tvg-name="19:00 - Sivasspor - Fenerbahçe" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",19:00 - Sivasspor - Fenerbahçe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
@@ -303,6 +288,11 @@ https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcukbeinsports1/playli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
 https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="19:00 - Como - Torino" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",19:00 - Como - Torino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1754.xyz/
+https://alpha.cf-worker-78d19889191c18.workers.dev/live/selcuktivibuspor1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="19:00 - Çorum FK - Manisa FK" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",19:00 - Çorum FK - Manisa FK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
