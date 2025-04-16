@@ -1,8 +1,4 @@
 Grup = "Futbol"
-Kanal_Adı = "13:00 - Sydney FC - Lion City"
-Url = "https://alpha.cf-worker-64fbbf2bb69489.workers.dev/live/selcuksmartspor/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "21:30 - Newcastle - Crystal Palace"
 Url = "https://alpha.cf-worker-64fbbf2bb69489.workers.dev/live/selcukbeinsports3/playlist.m3u8"
 
@@ -27,16 +23,8 @@ Kanal_Adı = "21:30 - JSF Nanterre - AEK Athens"
 Url = "https://alpha.cf-worker-64fbbf2bb69489.workers.dev/live/selcuktivibuspor2/playlist.m3u8"
 
 Grup = "Tenis"
-Kanal_Adı = "13:30 - M.Andreeva - E.Andreeva"
-Url = "https://alpha.cf-worker-64fbbf2bb69489.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
-
-Grup = "Tenis"
 Kanal_Adı = "18:00 - J.Fett - I.Swiatek"
 Url = "https://alpha.cf-worker-64fbbf2bb69489.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "13:00 - Sydney FC - Lion City"
-Url = "https://alpha.cf-worker-64fbbf2bb69489.workers.dev/live/selcuksmartspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "21:30 - Newcastle - Crystal Palace"
