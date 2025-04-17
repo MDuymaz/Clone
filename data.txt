@@ -43,18 +43,6 @@ Kanal_Adı = "22:00 - Athletic Bilbao - Glasgow Rangers"
 Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcuktabiispor6/playlist.m3u8"
 
 Grup = "Tenis"
-Kanal_Adı = "12:30 - S.Lamens - L.Noskova"
-Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
-
-Grup = "Tenis"
-Kanal_Adı = "13:30 - M.Andreeva - E.Alexandrova"
-Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
-
-Grup = "Tenis"
-Kanal_Adı = "15:00 - J.Niemeier - J.Paolini"
-Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
-
-Grup = "Tenis"
 Kanal_Adı = "18:00 - M.Frech - J.Pegula"
 Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
