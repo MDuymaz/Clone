@@ -58,6 +58,22 @@ Grup = "Basketbol"
 Kanal_Adı = "21:45 - Real Madrid - Bayern Münih"
 Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcukssport2/playlist.m3u8"
 
+Grup = "Tenis"
+Kanal_Adı = "14:30 - M.Uchijima - O.Danilovic"
+Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
+
+Grup = "Tenis"
+Kanal_Adı = "16:30 - J.Ponchet - E.G.Ruse"
+Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
+
+Grup = "Tenis"
+Kanal_Adı = "18:30 - T.Rakotomanga Rajaonah - S.Lamens"
+Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
+
+Grup = "Tenis"
+Kanal_Adı = "20:30 - E.Svitolina - J.Maneiro"
+Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8"
+
 Grup = "Çoklu Ekran"
 Kanal_Adı = "20:00 - Galatasaray - Bodrumspor"
 Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcukbeinsports1/playlist.m3u8"
