@@ -1,14 +1,14 @@
 Grup = "Futbol"
+Kanal_Adı = "20:00 - Hatayspor - Konyaspor"
+Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcukbeinsports2/playlist.m3u8"
+
+Grup = "Futbol"
 Kanal_Adı = "20:00 - Galatasaray - Bodrumspor"
 Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcukbeinsports1/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "20:00 - Manisa FK - Ankaragücü"
 Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcuktrtspor/playlist.m3u8"
-
-Grup = "Futbol"
-Kanal_Adı = "20:00 - Hatayspor - Konyaspor"
-Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcukbeinsports2/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "21:45 - Rennes - Nantes"
@@ -59,16 +59,16 @@ Kanal_Adı = "21:45 - Real Madrid - Bayern Münih"
 Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcukssport2/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
+Kanal_Adı = "20:00 - Hatayspor - Konyaspor"
+Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcukbeinsports2/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
 Kanal_Adı = "20:00 - Galatasaray - Bodrumspor"
 Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcukbeinsports1/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "20:00 - Manisa FK - Ankaragücü"
 Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcuktrtspor/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "20:00 - Hatayspor - Konyaspor"
-Url = "https://alpha.cf-worker-7dace910d75585.workers.dev/live/selcukbeinsports2/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "21:45 - Rennes - Nantes"
