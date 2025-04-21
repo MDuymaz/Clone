@@ -27,12 +27,12 @@ Kanal_Adı = "20:00 - Iğdırspor - Sakaryaspor"
 Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "21:45 - Annecy - Lorient"
-Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports4/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "21:45 - Parma - Juventus"
 Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukssport2/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "21:45 - Annecy - Lorient"
+Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports4/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "22:00 - Girona - Real Betis"
@@ -79,12 +79,12 @@ Kanal_Adı = "20:00 - Iğdırspor - Sakaryaspor"
 Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "21:45 - Annecy - Lorient"
-Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports4/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
 Kanal_Adı = "21:45 - Parma - Juventus"
 Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukssport2/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "21:45 - Annecy - Lorient"
+Url = "https://due.cc33a7f67fb1af12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports4/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "22:00 - Girona - Real Betis"
