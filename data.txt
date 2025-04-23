@@ -1,8 +1,4 @@
 Grup = "Futbol"
-Kanal_Adı = "01:00 - LDU Quito - Flamengo"
-Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukssport2/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "19:30 - Parma - Juventus"
 Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukssport2/playlist.m3u8"
 
@@ -35,10 +31,6 @@ Kanal_Adı = "15:00 - Petkimspor - BC Igokea"
 Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukssport/playlist.m3u8"
 
 Grup = "Basketbol"
-Kanal_Adı = "19:30 - AEK Athens - JSF Nanterre"
-Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktivibuspor1/playlist.m3u8"
-
-Grup = "Basketbol"
 Kanal_Adı = "20:00 - Monaco - Barcelona"
 Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukssport/playlist.m3u8"
 
@@ -46,9 +38,9 @@ Grup = "Basketbol"
 Kanal_Adı = "21:30 - Olympiakos - Real Madrid"
 Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukssport2/playlist.m3u8"
 
-Grup = "Çoklu Ekran"
-Kanal_Adı = "01:00 - LDU Quito - Flamengo"
-Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukssport2/playlist.m3u8"
+Grup = "Tenis"
+Kanal_Adı = "14:00 - B.Bencic - Zeynep Sönmez"
+Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "19:30 - Parma - Juventus"
