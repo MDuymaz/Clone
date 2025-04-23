@@ -14,15 +14,15 @@ https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukssport2/playlist.m
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1772.xyz/
 https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktivibuspor2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="22:00 - Arsenal - Crystal Palace" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",22:00 - Arsenal - Crystal Palace
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1772.xyz/
-https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports3/playlist.m3u8
-
 #EXTINF:-1 tvg-name="22:00 - Inter - Milan" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",22:00 - Inter - Milan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1772.xyz/
 https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="22:00 - Arsenal - Crystal Palace" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",22:00 - Arsenal - Crystal Palace
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1772.xyz/
+https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="22:30 - Getafe - Real Madrid" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",22:30 - Getafe - Real Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -74,15 +74,15 @@ https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukssport2/playlist.m
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1772.xyz/
 https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktivibuspor2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="22:00 - Arsenal - Crystal Palace" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",22:00 - Arsenal - Crystal Palace
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1772.xyz/
-https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports3/playlist.m3u8
-
 #EXTINF:-1 tvg-name="22:00 - Inter - Milan" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",22:00 - Inter - Milan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1772.xyz/
 https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktrtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-name="22:00 - Arsenal - Crystal Palace" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",22:00 - Arsenal - Crystal Palace
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1772.xyz/
+https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="22:30 - Getafe - Real Madrid" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",22:30 - Getafe - Real Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
