@@ -31,10 +31,6 @@ Kanal_Adı = "21:30 - Panathinaikos - Anadolu Efes"
 Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukssport2/playlist.m3u8"
 
 Grup = "Tenis"
-Kanal_Adı = "12:00 - B.Bencic - C.Tauson"
-Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
-
-Grup = "Tenis"
 Kanal_Adı = "14:00 - M.Andreeva - M.Bouzkova"
 Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
