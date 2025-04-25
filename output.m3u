@@ -4,15 +4,15 @@
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1772.xyz/
 https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktrtspor/playlist.m3u8
 
-#EXTINF:-1 tvg-name="19:30 - Hertha Berlin - Magdeburg" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",19:30 - Hertha Berlin - Magdeburg
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1772.xyz/
-https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports2/playlist.m3u8
-
 #EXTINF:-1 tvg-name="19:30 - Greuther Fürth - Ulm" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",19:30 - Greuther Fürth - Ulm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1772.xyz/
 https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports3/playlist.m3u8
+
+#EXTINF:-1 tvg-name="19:30 - Hertha Berlin - Magdeburg" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",19:30 - Hertha Berlin - Magdeburg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1772.xyz/
+https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="20:00 - Beşiktaş - Hatayspor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",20:00 - Beşiktaş - Hatayspor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -79,15 +79,15 @@ https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsportsmax1/pla
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1772.xyz/
 https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktrtspor/playlist.m3u8
 
-#EXTINF:-1 tvg-name="19:30 - Hertha Berlin - Magdeburg" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",19:30 - Hertha Berlin - Magdeburg
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1772.xyz/
-https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports2/playlist.m3u8
-
 #EXTINF:-1 tvg-name="19:30 - Greuther Fürth - Ulm" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",19:30 - Greuther Fürth - Ulm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1772.xyz/
 https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports3/playlist.m3u8
+
+#EXTINF:-1 tvg-name="19:30 - Hertha Berlin - Magdeburg" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",19:30 - Hertha Berlin - Magdeburg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1772.xyz/
+https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="20:00 - Beşiktaş - Hatayspor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",20:00 - Beşiktaş - Hatayspor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
