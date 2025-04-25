@@ -3,12 +3,12 @@ Kanal_Adı = "15:00 - Salzburg - Trabzonspor"
 Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "19:30 - Greuther Fürth - Ulm"
-Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports3/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "19:30 - Hertha Berlin - Magdeburg"
 Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports2/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "19:30 - Greuther Fürth - Ulm"
+Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports3/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "20:00 - Beşiktaş - Hatayspor"
@@ -39,10 +39,6 @@ Kanal_Adı = "21:30 - Olympiakos - Real Madrid"
 Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukssport2/playlist.m3u8"
 
 Grup = "Tenis"
-Kanal_Adı = "12:00 - P.Badosa - V.Kudermetova"
-Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
-
-Grup = "Tenis"
 Kanal_Adı = "13:30 - A.Sabalenka - A.Blinkova"
 Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
@@ -63,12 +59,12 @@ Kanal_Adı = "15:00 - Salzburg - Trabzonspor"
 Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "19:30 - Greuther Fürth - Ulm"
-Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports3/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
 Kanal_Adı = "19:30 - Hertha Berlin - Magdeburg"
 Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports2/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "19:30 - Greuther Fürth - Ulm"
+Url = "https://alpha.cf-worker-764ae05d19a722.workers.dev/live/selcukbeinsports3/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "20:00 - Beşiktaş - Hatayspor"
