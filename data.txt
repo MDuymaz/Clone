@@ -1,9 +1,9 @@
 Grup = "Futbol"
-Kanal_Adı = "19:00 - Gaziantep - Fenerbahçe HD1"
+Kanal_Adı = "19:00 - Eyüpspor - Galatasaray HD1"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports1s/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "19:00 - Gaziantep - Fenerbahçe (Çoklu Kalite)"
+Kanal_Adı = "19:00 - Eyüpspor - Galatasaray (Çoklu Kalite)"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports1m/playlist.m3u8"
 
 Grup = "Futbol"
@@ -15,12 +15,12 @@ Kanal_Adı = "13:30 - Venezia - Milan"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukssport/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "14:30 - Kaiserslautern - Schalke 04"
-Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktivibuspor4/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "14:30 - Hamburg - Karlsruhe"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktivibuspor3/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "14:30 - Kaiserslautern - Schalke 04"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktivibuspor4/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "14:30 - Hannover 96 - Köln"
@@ -31,15 +31,11 @@ Kanal_Adı = "15:30 - Ajax - Sparta Rotterdam"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktv85/playlist.m3u8"
 
 Grup = "Futbol"
+Kanal_Adı = "16:00 - Trabzonspor - Alanyaspor"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports1/playlist.m3u8"
+
+Grup = "Futbol"
 Kanal_Adı = "16:00 - Bandırmaspor - Esenler Erokspor"
-Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
-
-Grup = "Futbol"
-Kanal_Adı = "16:00 - Inter - Roma"
-Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukssport2/playlist.m3u8"
-
-Grup = "Futbol"
-Kanal_Adı = "16:00 - Şanlıurfaspor - Manisa FK"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
 
 Grup = "Futbol"
@@ -47,7 +43,11 @@ Kanal_Adı = "16:00 - İstanbulspor - Pendikspor"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "16:00 - Y.Malatyaspor - Iğdırspor"
+Kanal_Adı = "16:00 - Ankaragücü - Çorum FK"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "16:00 - Şanlıurfaspor - Manisa FK"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
 
 Grup = "Futbol"
@@ -55,15 +55,7 @@ Kanal_Adı = "16:00 - Konyaspor - Adana Demirspor"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports2/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "16:00 - Sakaryaspor - Erzurumspor"
-Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
-
-Grup = "Futbol"
-Kanal_Adı = "16:00 - Ankaragücü - Çorum FK"
-Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
-
-Grup = "Futbol"
-Kanal_Adı = "16:00 - Fatih Karagümrük - Keçiörengücü"
+Kanal_Adı = "16:00 - Y.Malatyaspor - Iğdırspor"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
 
 Grup = "Futbol"
@@ -71,7 +63,23 @@ Kanal_Adı = "16:00 - Kocaelispor - Boluspor"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
 
 Grup = "Futbol"
+Kanal_Adı = "16:00 - Adanaspor - Gençlerbirliği"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
+
+Grup = "Futbol"
 Kanal_Adı = "16:00 - Ümraniyespor - Amedspor"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "16:00 - Sakaryaspor - Erzurumspor"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "16:00 - Inter - Roma"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukssport2/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "16:00 - Fatih Karagümrük - Keçiörengücü"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
 
 Grup = "Futbol"
@@ -87,24 +95,24 @@ Kanal_Adı = "17:15 - Villarreal - Espanyol"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukssport/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "18:30 - Liverpool - Tottenham"
-Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports3/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "18:30 - Werder Bremen - St.Pauli"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "18:30 - Liverpool - Tottenham"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports3/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "19:00 - Juventus - Monza"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukssport2/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "19:00 - Eyüpspor - Galatasaray"
-Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports1/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "19:00 - Kayserispor - Ç.Rizespor"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports2/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "19:00 - Eyüpspor - Galatasaray"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports1/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "19:30 - St.Gilloise - Club Brugge"
@@ -119,12 +127,12 @@ Kanal_Adı = "21:30 - River Plate - Boca Juniors"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuksmartspor/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "21:45 - Marsilya - Brest"
-Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports4/playlist.m3u8"
-
-Grup = "Futbol"
 Kanal_Adı = "21:45 - Atalanta - Lecce"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktivibuspor2/playlist.m3u8"
+
+Grup = "Futbol"
+Kanal_Adı = "21:45 - Marsilya - Brest"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports4/playlist.m3u8"
 
 Grup = "Futbol"
 Kanal_Adı = "21:45 - Napoli - Torino"
@@ -139,15 +147,11 @@ Kanal_Adı = "15:30 - Tofaş - Mersin Spor"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports5/playlist.m3u8"
 
 Grup = "Basketbol"
-Kanal_Adı = "18:00 - Yalovaspor - Bursaspor"
-Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports5/playlist.m3u8"
-
-Grup = "Basketbol"
 Kanal_Adı = "18:00 - Bilbao Basket - Murcia"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuksmartspor/playlist.m3u8"
 
 Grup = "Basketbol"
-Kanal_Adı = "20:30 - Galatasaray - Petkimspor"
+Kanal_Adı = "18:00 - Yalovaspor - Bursaspor"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports5/playlist.m3u8"
 
 Grup = "Basketbol"
@@ -155,15 +159,19 @@ Kanal_Adı = "20:30 - Oostende - Lietuvos Rytas"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukssport/playlist.m3u8"
 
 Grup = "Basketbol"
+Kanal_Adı = "20:30 - Galatasaray - Petkimspor"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports5/playlist.m3u8"
+
+Grup = "Basketbol"
 Kanal_Adı = "22:30 - Minnesota TW - LA Lakers"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukssport/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "19:00 - Gaziantep - Fenerbahçe HD1"
+Kanal_Adı = "19:00 - Eyüpspor - Galatasaray HD1"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports1s/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "19:00 - Gaziantep - Fenerbahçe (Çoklu Kalite)"
+Kanal_Adı = "19:00 - Eyüpspor - Galatasaray (Çoklu Kalite)"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports1m/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
@@ -175,12 +183,12 @@ Kanal_Adı = "13:30 - Venezia - Milan"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukssport/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "14:30 - Kaiserslautern - Schalke 04"
-Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktivibuspor4/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
 Kanal_Adı = "14:30 - Hamburg - Karlsruhe"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktivibuspor3/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "14:30 - Kaiserslautern - Schalke 04"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktivibuspor4/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "14:30 - Hannover 96 - Köln"
@@ -191,15 +199,11 @@ Kanal_Adı = "15:30 - Ajax - Sparta Rotterdam"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktv85/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
+Kanal_Adı = "16:00 - Trabzonspor - Alanyaspor"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports1/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
 Kanal_Adı = "16:00 - Bandırmaspor - Esenler Erokspor"
-Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "16:00 - Inter - Roma"
-Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukssport2/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "16:00 - Şanlıurfaspor - Manisa FK"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
@@ -207,7 +211,11 @@ Kanal_Adı = "16:00 - İstanbulspor - Pendikspor"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "16:00 - Y.Malatyaspor - Iğdırspor"
+Kanal_Adı = "16:00 - Ankaragücü - Çorum FK"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "16:00 - Şanlıurfaspor - Manisa FK"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
@@ -215,15 +223,7 @@ Kanal_Adı = "16:00 - Konyaspor - Adana Demirspor"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports2/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "16:00 - Sakaryaspor - Erzurumspor"
-Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "16:00 - Ankaragücü - Çorum FK"
-Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
-Kanal_Adı = "16:00 - Fatih Karagümrük - Keçiörengücü"
+Kanal_Adı = "16:00 - Y.Malatyaspor - Iğdırspor"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
@@ -231,7 +231,23 @@ Kanal_Adı = "16:00 - Kocaelispor - Boluspor"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
+Kanal_Adı = "16:00 - Adanaspor - Gençlerbirliği"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
 Kanal_Adı = "16:00 - Ümraniyespor - Amedspor"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "16:00 - Sakaryaspor - Erzurumspor"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "16:00 - Inter - Roma"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukssport2/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "16:00 - Fatih Karagümrük - Keçiörengücü"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktrtspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
@@ -247,24 +263,24 @@ Kanal_Adı = "17:15 - Villarreal - Espanyol"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukssport/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "18:30 - Liverpool - Tottenham"
-Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports3/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
 Kanal_Adı = "18:30 - Werder Bremen - St.Pauli"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsportsmax1/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "18:30 - Liverpool - Tottenham"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports3/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "19:00 - Juventus - Monza"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukssport2/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "19:00 - Eyüpspor - Galatasaray"
-Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports1/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
 Kanal_Adı = "19:00 - Kayserispor - Ç.Rizespor"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports2/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "19:00 - Eyüpspor - Galatasaray"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports1/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "19:30 - St.Gilloise - Club Brugge"
@@ -279,12 +295,12 @@ Kanal_Adı = "21:30 - River Plate - Boca Juniors"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuksmartspor/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
-Kanal_Adı = "21:45 - Marsilya - Brest"
-Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports4/playlist.m3u8"
-
-Grup = "Çoklu Ekran"
 Kanal_Adı = "21:45 - Atalanta - Lecce"
 Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcuktivibuspor2/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "21:45 - Marsilya - Brest"
+Url = "https://due.7b2887fe188e8f12.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8selcukbeinsports4/playlist.m3u8"
 
 Grup = "Çoklu Ekran"
 Kanal_Adı = "21:45 - Napoli - Torino"
