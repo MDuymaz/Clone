@@ -39,15 +39,15 @@ https://alpha.cf-worker-1a16c447481f2d.workers.dev/live/selcuktrtspor/playlist.m
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1780.xyz/
 https://alpha.cf-worker-1a16c447481f2d.workers.dev/live/selcukbeinsports5/playlist.m3u8
 
-#EXTINF:-1 tvg-name="20:30 - Merkezefendi Bld. - Fenerbahçe Beko" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Basketbol",20:30 - Merkezefendi Bld. - Fenerbahçe Beko
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1780.xyz/
-https://alpha.cf-worker-1a16c447481f2d.workers.dev/live/selcukbeinsports5/playlist.m3u8
-
 #EXTINF:-1 tvg-name="20:30 - Anadolu Efes - Panathinaikos" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Basketbol",20:30 - Anadolu Efes - Panathinaikos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1780.xyz/
 https://alpha.cf-worker-1a16c447481f2d.workers.dev/live/selcukssport/playlist.m3u8
+
+#EXTINF:-1 tvg-name="20:30 - Merkezefendi Bld. - Fenerbahçe Beko" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Basketbol",20:30 - Merkezefendi Bld. - Fenerbahçe Beko
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1780.xyz/
+https://alpha.cf-worker-1a16c447481f2d.workers.dev/live/selcukbeinsports5/playlist.m3u8
 
 #EXTINF:-1 tvg-name="21:45 - Barcelona - Monaco" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Basketbol",21:45 - Barcelona - Monaco
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
