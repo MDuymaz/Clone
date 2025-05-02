@@ -31,12 +31,12 @@ Kanal_Adı = "19:00 - Manisa BB - Galatasaray"
 Url = "https://alpha.cf-worker-1a16c447481f2d.workers.dev/live/selcukbeinsports5/playlist.m3u8"
 
 Grup = "Basketbol"
-Kanal_Adı = "20:30 - Merkezefendi Bld. - Fenerbahçe Beko"
-Url = "https://alpha.cf-worker-1a16c447481f2d.workers.dev/live/selcukbeinsports5/playlist.m3u8"
-
-Grup = "Basketbol"
 Kanal_Adı = "20:30 - Anadolu Efes - Panathinaikos"
 Url = "https://alpha.cf-worker-1a16c447481f2d.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "Basketbol"
+Kanal_Adı = "20:30 - Merkezefendi Bld. - Fenerbahçe Beko"
+Url = "https://alpha.cf-worker-1a16c447481f2d.workers.dev/live/selcukbeinsports5/playlist.m3u8"
 
 Grup = "Basketbol"
 Kanal_Adı = "21:45 - Barcelona - Monaco"
