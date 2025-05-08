@@ -1,18 +1,34 @@
 Grup = "Futbol"
-Kanal_Adı = "21:00 - Al Nassr - Al Ittihad"
-Url = "https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcuktrtspor/playlist.m3u8"
+Kanal_Adı = "03:00 - Universidad de Chile - Estudiantes"
+Url = "https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcukssport2/playlist.m3u8"
 
 Grup = "Futbol"
-Kanal_Adı = "22:00 - PSG - Arsenal"
+Kanal_Adı = "22:00 - Manchester Utd - Athletic Bilbao"
 Url = "https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcuktrt1/playlist.m3u8"
 
-Grup = "Çoklu Ekran"
-Kanal_Adı = "21:00 - Al Nassr - Al Ittihad"
+Grup = "Futbol"
+Kanal_Adı = "22:00 - Bodo Glimt - Tottenham"
 Url = "https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
+Grup = "Basketbol"
+Kanal_Adı = "02:00 - Boston Celtics - New York Knicks"
+Url = "https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcukssport/playlist.m3u8"
+
+Grup = "Basketbol"
+Kanal_Adı = "21:30 - Leyma Coruna - Barcelona"
+Url = "https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcuksmartspor/playlist.m3u8"
+
 Grup = "Çoklu Ekran"
-Kanal_Adı = "22:00 - PSG - Arsenal"
+Kanal_Adı = "03:00 - Universidad de Chile - Estudiantes"
+Url = "https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcukssport2/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "22:00 - Manchester Utd - Athletic Bilbao"
 Url = "https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcuktrt1/playlist.m3u8"
+
+Grup = "Çoklu Ekran"
+Kanal_Adı = "22:00 - Bodo Glimt - Tottenham"
+Url = "https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcuktrtspor/playlist.m3u8"
 
 Grup = "7/24 TV"
 Kanal_Adı = " - Bein Sports 1"
