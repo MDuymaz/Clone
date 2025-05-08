@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="03:00 - Universidad de Chile - Estudiantes" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",03:00 - Universidad de Chile - Estudiantes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1791.xyz/
-https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcukssport2/playlist.m3u8
-
 #EXTINF:-1 tvg-name="22:00 - Manchester Utd - Athletic Bilbao" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Futbol",22:00 - Manchester Utd - Athletic Bilbao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1791.xyz/
@@ -14,20 +9,10 @@ https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcuktrt1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1791.xyz/
 https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcuktrtspor/playlist.m3u8
 
-#EXTINF:-1 tvg-name="02:00 - Boston Celtics - New York Knicks" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Basketbol",02:00 - Boston Celtics - New York Knicks
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1791.xyz/
-https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcukssport/playlist.m3u8
-
 #EXTINF:-1 tvg-name="21:30 - Leyma Coruna - Barcelona" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Basketbol",21:30 - Leyma Coruna - Barcelona
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1791.xyz/
 https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcuksmartspor/playlist.m3u8
-
-#EXTINF:-1 tvg-name="03:00 - Universidad de Chile - Estudiantes" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",03:00 - Universidad de Chile - Estudiantes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd1791.xyz/
-https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcukssport2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="22:00 - Manchester Utd - Athletic Bilbao" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://www.selcuksportshd1727.xyz/img/logo.png" group-title="Çoklu Ekran",22:00 - Manchester Utd - Athletic Bilbao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
