@@ -11,14 +11,6 @@ Kanal_Adı = "21:30 - Leyma Coruna - Barcelona"
 Url = "https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcuksmartspor/playlist.m3u8"
 
 Grup = "Tenis"
-Kanal_Adı = "14:00 - E.Cocciaretto - I.Swiatek"
-Url = "https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
-
-Grup = "Tenis"
-Kanal_Adı = "15:30 - J.Paolini - L.Sun"
-Url = "https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
-
-Grup = "Tenis"
 Kanal_Adı = "18:00 - A.Krueger - J.Pegula"
 Url = "https://alpha.cf-worker-8cebbdb0bfdc3f.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8"
 
